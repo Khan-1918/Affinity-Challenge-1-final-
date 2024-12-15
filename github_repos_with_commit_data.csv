@@ -1,0 +1,1001 @@
+Repository,Language,Forks,First Commit,Last Commit,Commits (Last 120 Days),URL
+pandas,Python,18075,2024-08-19T17:07:24,2024-12-14T20:16:51,422,https://github.com/pandas-dev/pandas
+30-Days-Of-Python,Python,8268,2024-10-09T08:40:24,2024-10-09T08:43:28,2,https://github.com/Asabeneh/30-Days-Of-Python
+tqdm,Python,1364,2024-10-06T22:33:28,2024-11-12T13:35:33,20,https://github.com/tqdm/tqdm
+Data-Science-For-Beginners,Jupyter Notebook,5856,2024-08-27T16:00:02,2024-10-15T11:01:26,3,https://github.com/microsoft/Data-Science-For-Beginners
+datasets,Python,2710,2024-08-20T09:02:35,2024-12-10T17:01:45,73,https://github.com/huggingface/datasets
+yfinance,Python,2475,2024-08-19T09:10:57,2024-12-08T18:23:22,95,https://github.com/ranaroussi/yfinance
+pandas-ai,Python,1335,2024-08-23T19:42:53,2024-11-20T19:04:31,36,https://github.com/Sinaptik-AI/pandas-ai
+pygwalker,Python,709,2024-08-21T03:39:38,2024-11-27T12:57:10,38,https://github.com/Kanaries/pygwalker
+dask,Python,1720,2024-08-19T13:13:55,2024-12-13T21:07:03,147,https://github.com/dask/dask
+ydata-profiling,Python,1689,2024-09-02T00:46:06,2024-12-10T02:31:52,33,https://github.com/ydataai/ydata-profiling
+abu,Python,3807,2024-11-21T13:49:31,2024-11-21T13:49:31,1,https://github.com/bbfamily/abu
+modin,Python,655,2024-08-19T11:56:21,2024-09-21T18:34:04,17,https://github.com/modin-project/modin
+mlcourse.ai,Python,5674,2024-08-19T14:57:41,2024-11-26T15:46:08,7,https://github.com/Yorko/mlcourse.ai
+cudf,C++,912,2024-08-19T13:28:35,2024-12-13T23:50:11,670,https://github.com/rapidsai/cudf
+python_for_data_analysis_2nd_chinese_version,,2698,2024-08-19T06:27:31,2024-08-19T06:27:31,1,https://github.com/iamseancheney/python_for_data_analysis_2nd_chinese_version
+visidata,Python,283,2024-08-23T00:04:25,2024-12-07T08:43:40,167,https://github.com/saulpw/visidata
+pandas-cookbook,Jupyter Notebook,2320,2024-10-22T22:00:55,2024-10-24T02:01:47,14,https://github.com/jvns/pandas-cookbook
+pixie,C++,438,2024-08-19T23:05:37,2024-12-11T18:40:11,41,https://github.com/pixie-io/pixie
+ibis,Python,601,2024-08-19T16:01:41,2024-12-14T07:35:48,513,https://github.com/ibis-project/ibis
+orange3,Python,1027,2024-08-19T12:02:59,2024-12-13T13:58:57,144,https://github.com/biolab/orange3
+dtale,TypeScript,407,2024-08-29T19:36:45,2024-12-13T15:18:54,23,https://github.com/man-group/dtale
+geopandas,Python,937,2024-08-22T11:34:19,2024-12-13T15:43:12,38,https://github.com/geopandas/geopandas
+mimesis,Python,336,2024-09-13T22:04:46,2024-11-30T10:11:19,15,https://github.com/lk-geimfari/mimesis
+pytorch-forecasting,Python,643,2024-08-22T20:20:35,2024-12-10T18:49:56,130,https://github.com/sktime/pytorch-forecasting
+lance,Rust,234,2024-08-19T14:48:18,2024-12-14T19:43:24,260,https://github.com/lancedb/lance
+aws-sdk-pandas,Python,700,2024-08-19T13:50:23,2024-12-09T11:47:34,63,https://github.com/aws/aws-sdk-pandas
+XlsxWriter,Python,635,2024-08-30T08:06:42,2024-11-19T11:25:27,10,https://github.com/jmcnamara/XlsxWriter
+xarray,Python,1092,2024-08-19T06:19:57,2024-12-14T10:57:40,227,https://github.com/pydata/xarray
+god-level-ai,Jupyter Notebook,665,2024-10-14T15:10:28,2024-10-15T13:49:50,3,https://github.com/hemansnation/god-level-ai
+pandera,Python,315,2024-08-27T13:58:29,2024-12-10T00:28:24,22,https://github.com/unionai-oss/pandera
+DataFrame,C++,314,2024-08-19T18:06:06,2024-12-14T14:55:12,101,https://github.com/hosseinmoein/DataFrame
+jetson-containers,Jupyter Notebook,488,2024-08-20T16:43:19,2024-12-13T18:25:22,686,https://github.com/dusty-nv/jetson-containers
+delta-rs,Rust,413,2024-08-19T02:03:26,2024-12-15T12:54:49,207,https://github.com/delta-io/delta-rs
+mito,Jupyter Notebook,163,2024-08-19T21:58:59,2024-12-13T19:38:12,557,https://github.com/mito-ds/mito
+numexpr,Python,212,2024-08-26T05:59:27,2024-11-23T16:36:40,11,https://github.com/pydata/numexpr
+Finance,Python,71,2024-08-20T16:46:15,2024-08-20T22:13:17,3,https://github.com/shashankvemuri/Finance
+tabula-py,Python,301,2024-08-25T17:59:11,2024-12-05T16:14:54,12,https://github.com/chezou/tabula-py
+pygraphistry,Python,207,2024-09-15T04:23:43,2024-12-13T21:05:31,293,https://github.com/graphistry/pygraphistry
+fugue,Python,94,2024-09-20T06:45:56,2024-09-21T17:52:10,2,https://github.com/fugue-project/fugue
+soda-core,Python,217,2024-08-19T09:23:09,2024-12-02T10:54:47,35,https://github.com/sodadata/soda-core
+hamilton,Jupyter Notebook,128,2024-08-20T00:48:56,2024-12-12T19:42:05,133,https://github.com/DAGWorks-Inc/hamilton
+park-ui,TypeScript,76,2024-08-29T18:11:07,2024-11-30T22:43:04,37,https://github.com/cschroeter/park-ui
+pingouin,Python,141,2024-09-03T09:38:59,2024-12-08T12:55:17,8,https://github.com/raphaelvallat/pingouin
+ArcticDB,C++,97,2024-08-19T17:26:33,2024-12-12T13:20:01,168,https://github.com/man-group/ArcticDB
+panda,C,789,2024-08-18T19:01:17,2024-12-12T23:56:43,75,https://github.com/commaai/panda
+optimus,Python,232,,,0,https://github.com/hi-primus/optimus
+DataProfiler,Python,163,,,0,https://github.com/capitalone/DataProfiler
+pyjanitor,Python,172,2024-08-20T20:52:54,2024-12-12T11:30:03,33,https://github.com/pyjanitor-devs/pyjanitor
+data-forge-ts,TypeScript,78,2024-10-26T02:12:12,2024-10-26T02:12:12,1,https://github.com/data-forge/data-forge-ts
+prince,Python,184,2024-09-07T12:35:01,2024-11-17T22:14:08,17,https://github.com/MaxHalford/prince
+AlphaPy,Python,209,2024-12-15T17:30:23,2024-12-15T17:30:23,1,https://github.com/ScottfreeLLC/AlphaPy
+hvplot,Python,109,2024-08-29T05:54:49,2024-12-13T09:42:02,31,https://github.com/holoviz/hvplot
+xorbits,Python,69,2024-08-19T15:08:39,2024-12-12T15:40:55,29,https://github.com/xorbitsai/xorbits
+Automation-scripts,Python,569,2024-10-02T05:16:25,2024-10-14T13:17:59,67,https://github.com/python-geeks/Automation-scripts
+code,Jupyter Notebook,1432,2024-11-13T04:18:24,2024-11-13T04:19:44,2,https://github.com/dataprofessor/code
+pandapower,Python,488,2024-08-20T07:32:24,2024-12-13T10:42:16,209,https://github.com/e2nIEE/pandapower
+nlu,Python,131,2024-08-31T13:54:59,2024-11-28T15:34:54,21,https://github.com/JohnSnowLabs/nlu
+awkward,Python,89,2024-08-22T14:24:40,2024-12-05T22:02:15,73,https://github.com/scikit-hep/awkward
+pandas_market_calendars,Python,173,2024-11-17T11:23:45,2024-11-17T20:26:53,5,https://github.com/rsheftel/pandas_market_calendars
+itables,Python,58,2024-08-31T05:11:14,2024-12-07T12:19:13,25,https://github.com/mwouts/itables
+delta-sharing,Scala,171,2024-09-27T23:57:15,2024-12-05T06:36:12,17,https://github.com/delta-io/delta-sharing
+pdpipe,Jupyter Notebook,45,2024-10-31T13:51:17,2024-10-31T13:51:17,1,https://github.com/pdpipe/pdpipe
+pytimetk,Python,60,2024-10-31T20:00:34,2024-11-06T17:55:17,31,https://github.com/business-science/pytimetk
+narwhals,Python,118,2024-08-19T11:55:57,2024-12-15T17:31:38,539,https://github.com/narwhals-dev/narwhals
+eland,Python,100,2024-09-03T14:02:08,2024-11-22T15:20:58,17,https://github.com/elastic/eland
+Hands-On-Data-Analysis-with-Pandas-2nd-edition,Jupyter Notebook,1413,2024-10-12T17:11:16,2024-10-12T17:11:16,1,https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas-2nd-edition
+kglab,Jupyter Notebook,67,,,0,https://github.com/DerwenAI/kglab
+Panda-70M,Python,20,2024-10-15T18:54:34,2024-10-25T00:31:10,17,https://github.com/snap-research/Panda-70M
+Efficient-Python-for-Data-Scientists,Jupyter Notebook,124,2024-08-22T15:28:39,2024-08-22T20:27:50,12,https://github.com/youssefHosni/Efficient-Python-for-Data-Scientists
+finvizfinance,Jupyter Notebook,85,2024-08-27T04:47:22,2024-10-03T16:17:51,11,https://github.com/lit26/finvizfinance
+shares,PLpgSQL,135,2024-09-12T11:23:29,2024-10-13T07:47:29,10,https://github.com/xxjwxc/shares
+advanced-machine-learning-engineer-roadmap-2024,,71,2024-09-02T11:52:20,2024-09-02T11:52:20,1,https://github.com/farukalamai/advanced-machine-learning-engineer-roadmap-2024
+traceml,Python,43,2024-08-28T11:18:38,2024-10-24T21:24:35,6,https://github.com/polyaxon/traceml
+popmon,Python,36,,,0,https://github.com/ing-bank/popmon
+datacompy,Python,130,2024-09-11T16:13:20,2024-12-10T20:07:30,26,https://github.com/capitalone/datacompy
+dovpanda,Python,22,,,0,https://github.com/dovpanda-dev/dovpanda
+BambooAI,Python,47,2024-10-20T09:25:56,2024-10-20T09:26:03,2,https://github.com/pgalko/BambooAI
+pandas-js,JavaScript,35,2024-11-22T01:17:25,2024-11-22T01:17:25,1,https://github.com/StratoDem/pandas-js
+pyaf,Python,73,2024-11-22T17:04:14,2024-11-23T17:06:17,5,https://github.com/antoinecarme/pyaf
+lotus,Python,41,2024-08-21T01:13:40,2024-12-14T18:49:51,57,https://github.com/guestrin-lab/lotus
+python-bigquery-pandas,Python,122,2024-09-10T17:55:26,2024-12-12T21:38:50,20,https://github.com/googleapis/python-bigquery-pandas
+ydata-quality,Jupyter Notebook,55,,,0,https://github.com/ydataai/ydata-quality
+mlimpl,Shell,110,2024-08-19T16:08:05,2024-08-25T04:14:52,2,https://github.com/vincen-github/mlimpl
+skimpy,Python,22,2024-08-19T05:38:15,2024-12-02T20:00:47,94,https://github.com/aeturrell/skimpy
+bootcamp_python,TeX,128,2024-09-26T14:53:30,2024-10-01T07:39:09,15,https://github.com/42-AI/bootcamp_python
+tsflex,Python,26,2024-08-24T12:58:16,2024-09-06T09:27:10,3,https://github.com/predict-idlab/tsflex
+vnquant,Python,184,2024-11-06T16:53:10,2024-11-30T01:15:03,3,https://github.com/phamdinhkhanh/vnquant
+twelvedata-python,Python,57,2024-08-30T08:03:27,2024-09-16T10:28:38,5,https://github.com/twelvedata/twelvedata-python
+pandas-workshop,Jupyter Notebook,731,2024-08-30T12:52:14,2024-11-05T21:39:08,20,https://github.com/stefmolin/pandas-workshop
+astro-sdk,Python,45,,,0,https://github.com/astronomer/astro-sdk
+lantern,Python,22,2024-11-18T13:49:13,2024-11-18T13:57:03,2,https://github.com/timkpaine/lantern
+windrose,Python,133,2024-09-03T07:39:24,2024-12-03T09:09:35,13,https://github.com/python-windrose/windrose
+pyreadstat,C,61,2024-09-02T13:25:16,2024-10-18T20:43:06,10,https://github.com/Roche/pyreadstat
+scalecast,Python,39,2024-10-14T22:59:07,2024-10-14T22:59:07,1,https://github.com/mikekeith52/scalecast
+awesome-python,,24,2024-11-01T05:54:45,2024-12-08T03:22:38,3,https://github.com/dylanhogg/awesome-python
+myduckserver,Go,11,2024-08-22T10:27:44,2024-12-13T11:16:41,224,https://github.com/apecloud/myduckserver
+tempo,Jupyter Notebook,53,2024-10-01T23:23:58,2024-11-18T11:06:16,6,https://github.com/databrickslabs/tempo
+spatialpandas,Python,25,2024-09-20T07:35:37,2024-11-28T08:37:04,9,https://github.com/holoviz/spatialpandas
+PyComplexHeatmap,Python,32,2024-09-04T05:59:50,2024-11-26T23:27:26,38,https://github.com/DingWB/PyComplexHeatmap
+pandas_flavor,Python,17,,,0,https://github.com/pyjanitor-devs/pandas_flavor
+pyreadr,C,24,2024-09-19T13:57:06,2024-10-28T12:34:17,2,https://github.com/ofajardo/pyreadr
+KaggleStruggle,Jupyter Notebook,288,2024-09-11T11:42:29,2024-09-14T04:30:47,4,https://github.com/corazzon/KaggleStruggle
+python_data_course,Jupyter Notebook,84,2024-09-30T06:58:49,2024-11-12T10:31:01,9,https://github.com/wisherg/python_data_course
+python-calamine,Python,7,2024-08-22T00:06:58,2024-11-16T09:50:16,41,https://github.com/dimastbk/python-calamine
+deepgraph,Python,40,,,0,https://github.com/deepgraph/deepgraph
+dataframe_image,Jupyter Notebook,42,2024-08-30T09:44:37,2024-12-05T02:24:32,20,https://github.com/dexplo/dataframe_image
+feature-engineering-tutorials,Jupyter Notebook,100,,,0,https://github.com/rasgointelligence/feature-engineering-tutorials
+PandaSpigot,Shell,71,2024-08-23T00:20:12,2024-12-13T18:56:31,27,https://github.com/hpfxd/PandaSpigot
+PythonForDataAnalysis,Jupyter Notebook,15,2024-10-09T03:53:52,2024-10-09T03:53:52,1,https://github.com/roberthsu2003/PythonForDataAnalysis
+data-analysis-using-python,Jupyter Notebook,39,2024-09-11T20:13:05,2024-11-23T16:25:17,10,https://github.com/mebauer/data-analysis-using-python
+PandA-bambu,C++,48,,,0,https://github.com/ferrandi/PandA-bambu
+pdblp,Python,68,2024-11-20T21:49:34,2024-12-14T18:51:29,2,https://github.com/matthewgilbert/pdblp
+pandas-stubs,Python,132,2024-08-20T14:41:23,2024-12-05T16:51:44,53,https://github.com/pandas-dev/pandas-stubs
+SciCompforChemists,Jupyter Notebook,73,2024-08-26T00:32:49,2024-11-25T23:59:21,10,https://github.com/weisscharlesj/SciCompforChemists
+Credit-card-approval-prediction-classification,Jupyter Notebook,85,2024-10-18T07:15:58,2024-10-19T03:16:21,6,https://github.com/semasuka/Credit-card-approval-prediction-classification
+buckaroo,Python,10,2024-09-10T17:42:26,2024-11-13T19:15:07,25,https://github.com/paddymul/buckaroo
+nba-prediction,Jupyter Notebook,39,2024-09-12T12:43:13,2024-12-15T08:05:50,71,https://github.com/cmunch1/nba-prediction
+census-data-downloader,Python,34,2024-09-30T17:34:07,2024-09-30T17:34:07,1,https://github.com/datadesk/census-data-downloader
+awesome-web-testing-playwright,TypeScript,49,,,0,https://github.com/AutomationPanda/awesome-web-testing-playwright
+curso-python-analisis-datos,HTML,48,,,0,https://github.com/koldLight/curso-python-analisis-datos
+searcharray,Python,6,2024-10-26T03:08:52,2024-11-28T14:29:39,17,https://github.com/softwaredoug/searcharray
+trackintel,Python,50,2024-10-15T07:43:24,2024-12-06T15:37:10,5,https://github.com/mie-lab/trackintel
+p2panda,Rust,9,2024-08-21T07:07:18,2024-12-09T14:03:21,90,https://github.com/p2panda/p2panda
+modern-polars,Python,28,2024-12-12T06:18:02,2024-12-12T09:56:02,2,https://github.com/kevinheavey/modern-polars
+Panda,Swift,9,2024-10-03T08:57:39,2024-10-12T02:53:46,3,https://github.com/nangege/Panda
+spyndex,Python,22,2024-11-26T01:47:06,2024-11-26T01:47:06,1,https://github.com/awesome-spectral-indices/spyndex
+chainladder-python,Python,73,2024-09-28T19:50:28,2024-12-04T17:37:26,2,https://github.com/casact/chainladder-python
+urbs,Python,132,2024-12-09T09:35:17,2024-12-09T09:35:17,1,https://github.com/tum-ens/urbs
+frankapy,Python,30,2024-09-13T18:43:30,2024-09-17T16:26:33,8,https://github.com/iamlab-cmu/frankapy
+cuallee,Python,21,2024-08-30T16:08:14,2024-12-14T09:12:47,29,https://github.com/canimus/cuallee
+pint-pandas,Python,44,2024-12-01T11:26:47,2024-12-01T13:07:22,3,https://github.com/hgrecco/pint-pandas
+bigtree,Python,14,2024-08-23T05:48:47,2024-11-13T19:34:08,141,https://github.com/kayjan/bigtree
+movingpandas-examples,Jupyter Notebook,34,2024-08-26T12:28:54,2024-11-13T14:07:56,7,https://github.com/movingpandas/movingpandas-examples
+bioframe,Python,29,2024-10-18T10:23:02,2024-10-21T16:27:43,8,https://github.com/open2c/bioframe
+OpenDataWrangling,Jupyter Notebook,126,2024-08-19T10:24:59,2024-11-22T04:08:49,33,https://github.com/corazzon/OpenDataWrangling
+zillionare,Jupyter Notebook,22,2024-08-19T12:26:09,2024-12-09T07:36:49,53,https://github.com/zillionare/zillionare
+PyBloqs,Python,42,2024-08-19T07:09:08,2024-12-03T18:28:09,105,https://github.com/man-group/PyBloqs
+pyjson_tricks,Python,23,2024-08-19T05:39:25,2024-08-19T20:11:42,2,https://github.com/mverleg/pyjson_tricks
+trex,Python,6,2024-10-07T11:24:14,2024-10-10T07:47:09,4,https://github.com/mesejo/trex
+flight-analysis,Python,41,,,0,https://github.com/celebi-pkg/flight-analysis
+AnkiPandas,Python,17,2024-10-10T15:50:34,2024-11-07T22:10:21,4,https://github.com/klieret/AnkiPandas
+mkdocs-table-reader-plugin,Python,21,2024-08-26T14:20:18,2024-09-08T17:28:40,14,https://github.com/timvink/mkdocs-table-reader-plugin
+Meerschaum,Python,9,2024-09-06T13:35:16,2024-12-11T01:03:50,39,https://github.com/bmeares/Meerschaum
+stock-pandas,Python,17,2024-09-09T02:20:38,2024-12-13T03:28:33,42,https://github.com/kaelzhang/stock-pandas
+wrds,Python,47,2024-10-09T14:29:37,2024-10-09T15:25:57,2,https://github.com/wharton/wrds
+bcpandas,Python,45,2024-08-19T17:44:40,2024-12-08T01:28:36,58,https://github.com/yehoshuadimarsky/bcpandas
+fastexcel,Rust,7,2024-08-23T16:40:54,2024-12-10T16:33:48,28,https://github.com/ToucanToco/fastexcel
+Machine_Learning,Jupyter Notebook,203,2024-09-18T14:54:06,2024-09-18T14:54:06,1,https://github.com/suvoooo/Machine_Learning
+zillacode,Python,27,2024-08-29T16:57:12,2024-09-02T21:11:54,7,https://github.com/davidzajac1/zillacode
+pantab,Python,44,2024-08-18T22:12:31,2024-11-18T16:09:39,45,https://github.com/innobi/pantab
+pyDatView,Python,43,2024-10-21T23:47:15,2024-10-26T20:53:02,6,https://github.com/ebranlard/pyDatView
+expr_codegen,Python,35,2024-08-23T18:15:50,2024-12-05T15:46:45,38,https://github.com/wukan1986/expr_codegen
+Python-Basis-Notes,TypeScript,33,2024-09-26T14:22:13,2024-09-26T14:23:27,2,https://github.com/zhiyu1998/Python-Basis-Notes
+pymport,C++,8,2024-08-22T14:47:49,2024-12-06T13:05:40,46,https://github.com/mmomtchev/pymport
+TimeEval,Jupyter Notebook,15,2024-09-02T09:12:27,2024-11-28T12:28:00,11,https://github.com/TimeEval/TimeEval
+Kaggle-PANDA-1st-place-solution,Jupyter Notebook,19,2024-12-05T05:01:09,2024-12-05T05:01:09,1,https://github.com/kentaroy47/Kaggle-PANDA-1st-place-solution
+hatchet,Python,37,,,0,https://github.com/hatchet/hatchet
+weightedcalcs,Python,7,2024-11-10T18:46:28,2024-11-10T18:50:40,6,https://github.com/jsvine/weightedcalcs
+gurobi-logtools,Python,17,2024-11-14T06:51:04,2024-11-14T06:51:04,1,https://github.com/Gurobi/gurobi-logtools
+repostat,Python,14,2024-09-14T08:56:33,2024-09-14T12:13:59,2,https://github.com/vifactor/repostat
+Quick-Notes-for-ML-DS,,47,2024-08-22T02:06:52,2024-11-28T01:18:11,18,https://github.com/ashishtele/Quick-Notes-for-ML-DS
+locopy,Python,46,2024-08-23T17:44:21,2024-11-20T18:40:27,39,https://github.com/capitalone/locopy
+weaverbird,TypeScript,17,2024-08-19T08:02:17,2024-12-12T09:01:05,94,https://github.com/ToucanToco/weaverbird
+stockdex,Python,4,2024-10-16T21:52:46,2024-12-01T09:15:23,68,https://github.com/ahnazary/stockdex
+intro-to-python,Jupyter Notebook,246,2024-08-28T17:37:23,2024-12-03T17:41:03,3,https://github.com/prof-rossetti/intro-to-python
+gurobipy-pandas,HTML,15,2024-09-18T08:36:46,2024-11-15T03:38:05,32,https://github.com/Gurobi/gurobipy-pandas
+Cheatsheets,,17,2024-09-22T20:24:27,2024-10-10T18:15:11,10,https://github.com/sentientmachine/Cheatsheets
+strictly_typed_pandas,Python,7,2024-08-19T17:39:53,2024-12-09T17:48:31,53,https://github.com/nanne-aben/strictly_typed_pandas
+nanocube,Python,4,2024-10-04T19:25:17,2024-11-26T15:12:55,61,https://github.com/nanocubeai/nanocube
+mongo-arrow,Python,13,2024-09-23T11:25:33,2024-11-20T17:56:42,14,https://github.com/mongodb-labs/mongo-arrow
+examples,Python,17,2024-11-23T18:22:37,2024-11-23T18:22:37,1,https://github.com/duckdb-in-action/examples
+h3ronpy,Rust,8,2024-10-04T18:45:26,2024-12-10T19:07:11,21,https://github.com/nmandery/h3ronpy
+fairlens,Python,11,,,0,https://github.com/synthesized-io/fairlens
+opteryx,Python,12,2024-08-19T09:34:19,2024-12-13T00:16:40,376,https://github.com/mabel-dev/opteryx
+website,TeX,53,2024-08-23T13:06:42,2024-11-19T18:49:56,47,https://github.com/tidy-finance/website
+scores,Jupyter Notebook,26,2024-08-24T07:46:51,2024-12-11T09:45:42,191,https://github.com/nci/scores
+DadosAbertosBrasil,Python,16,2024-08-24T20:23:06,2024-12-09T10:58:27,21,https://github.com/GusFurtado/DadosAbertosBrasil
+PracticalMachineLearning,Jupyter Notebook,24,2024-08-24T09:48:10,2024-10-28T19:53:17,5,https://github.com/habedi/PracticalMachineLearning
+feedback,,4,2024-12-03T13:43:50,2024-12-03T13:50:04,2,https://github.com/aibydoing/feedback
+scikit-criteria,Python,15,,,0,https://github.com/quatrope/scikit-criteria
+pandas-plink,Python,18,,,0,https://github.com/limix/pandas-plink
+python-performance,Python,29,2024-10-15T03:16:07,2024-10-23T22:47:11,2,https://github.com/tiagoantao/python-performance
+datawranglingpy,,3,2024-10-14T10:06:31,2024-10-14T10:06:31,1,https://github.com/gagolews/datawranglingpy
+model-metrics-plot,Jupyter Notebook,17,2024-08-21T16:46:03,2024-08-22T13:16:52,3,https://github.com/isLinXu/model-metrics-plot
+examples,Jupyter Notebook,32,2024-08-26T09:34:07,2024-12-06T16:20:04,24,https://github.com/neptune-ai/examples
+Basic-Machine-Learning,Jupyter Notebook,17,2024-10-17T07:54:51,2024-10-17T07:57:34,2,https://github.com/ekramasif/Basic-Machine-Learning
+mapply,Python,3,2024-08-26T07:43:54,2024-12-01T20:26:39,6,https://github.com/ddelange/mapply
+eslint-plugin-panda,TypeScript,5,2024-08-19T00:45:46,2024-12-09T05:06:18,69,https://github.com/chakra-ui/eslint-plugin-panda
+pandas-chaining-ninja,Python,0,2024-11-05T20:04:25,2024-12-06T06:57:38,23,https://github.com/danieleongari/pandas-chaining-ninja
+market_prices,Python,8,2024-09-22T12:44:30,2024-11-08T19:44:39,8,https://github.com/maread99/market_prices
+getting-started,Jupyter Notebook,11,2024-08-22T13:51:23,2024-12-12T12:00:20,70,https://github.com/tradingstrategy-ai/getting-started
+time-series-streaming-analytics-template,Jupyter Notebook,4,2024-09-09T09:44:51,2024-11-21T16:19:50,51,https://github.com/questdb/time-series-streaming-analytics-template
+small-data-projects,Jupyter Notebook,5,2024-08-26T16:27:26,2024-12-02T18:49:51,26,https://github.com/Lisa-Ho/small-data-projects
+ml,Jupyter Notebook,16,2024-10-30T17:05:18,2024-10-30T17:05:18,1,https://github.com/mandliya/ml
+ramp-workflow,Python,42,2024-12-02T22:52:40,2024-12-02T23:17:18,3,https://github.com/paris-saclay-cds/ramp-workflow
+django-model-values,Python,3,2024-11-06T01:28:00,2024-11-18T18:54:30,2,https://github.com/coady/django-model-values
+xyzpy,Python,11,2024-09-03T22:12:19,2024-09-05T17:58:09,2,https://github.com/jcmgray/xyzpy
+Excel,Jupyter Notebook,29,2024-09-29T14:59:12,2024-09-29T14:59:12,1,https://github.com/DataForScience/Excel
+xpanda,JavaScript,9,2024-09-14T03:32:26,2024-09-14T03:32:26,1,https://github.com/asmjmp0/xpanda
+stats_can,Python,25,2024-08-19T13:02:04,2024-11-29T22:01:33,32,https://github.com/ianepreston/stats_can
+dias,Python,6,2024-11-06T03:03:55,2024-12-07T00:10:40,4,https://github.com/ADAPT-uiuc/dias
+oxbow,Rust,8,2024-12-01T12:18:51,2024-12-01T22:20:37,13,https://github.com/abdenlab/oxbow
+EntityMatchingModel,Python,6,2024-08-31T10:40:32,2024-12-01T07:58:18,40,https://github.com/ing-bank/EntityMatchingModel
+mesmerize-core,Python,15,2024-08-22T14:30:35,2024-10-22T04:01:05,5,https://github.com/nel-lab/mesmerize-core
+MonetDBe-Python,Python,7,2024-08-21T07:55:20,2024-10-02T08:51:15,12,https://github.com/MonetDBSolutions/MonetDBe-Python
+100_bai_tap_pandas,Jupyter Notebook,33,2024-08-25T02:41:32,2024-08-25T15:20:34,4,https://github.com/datasciencelab-ai/100_bai_tap_pandas
+MyLearningNotes,Jupyter Notebook,50,2024-10-16T03:32:31,2024-11-16T19:36:01,6,https://github.com/vivek-bombatkar/MyLearningNotes
+FHIR-PYrate,Python,11,2024-10-04T11:59:55,2024-10-04T12:02:10,2,https://github.com/UMEssen/FHIR-PYrate
+hydropandas,Python,11,2024-09-16T10:06:27,2024-10-09T12:14:20,22,https://github.com/ArtesiaWater/hydropandas
+Panda-Express-Survey-Automation,Python,12,,,0,https://github.com/michael-m-truong/Panda-Express-Survey-Automation
+anesthetic,Python,16,2024-09-26T22:22:15,2024-09-30T16:12:34,4,https://github.com/handley-lab/anesthetic
+pandas-gpt,Jupyter Notebook,7,2024-12-04T22:24:11,2024-12-04T22:24:11,1,https://github.com/rvanasa/pandas-gpt
+pandabox,TypeScript,4,2024-10-17T08:27:11,2024-10-17T08:27:11,1,https://github.com/astahmer/pandabox
+python-ctd,Python,35,2024-09-02T20:04:40,2024-12-03T09:08:01,13,https://github.com/pyoceans/python-ctd
+py-questdb-client,Python,10,2024-09-03T14:47:19,2024-11-12T18:34:42,4,https://github.com/questdb/py-questdb-client
+F1PyStats,Python,19,2024-10-11T02:39:46,2024-10-14T01:52:14,4,https://github.com/alec-kr/F1PyStats
+ML-algorithms-from-scratch.-Course-for-beginners,Jupyter Notebook,16,2024-10-24T16:25:14,2024-10-24T16:31:34,4,https://github.com/egaoharu-kensei/ML-algorithms-from-scratch.-Course-for-beginners
+hg-da,Jupyter Notebook,51,2024-12-14T06:12:29,2024-12-15T04:36:22,16,https://github.com/rickiepark/hg-da
+hydrotools,Python,14,2024-09-13T17:32:42,2024-12-03T16:28:55,23,https://github.com/NOAA-OWP/hydrotools
+databricks_helpers,Jupyter Notebook,3,2024-09-04T15:00:33,2024-12-13T11:22:55,3,https://github.com/dotlas/databricks_helpers
+rdfpandas,Python,8,2024-09-20T23:07:35,2024-09-21T00:09:45,5,https://github.com/cadmiumkitty/rdfpandas
+cognipy,C#,10,2024-11-29T06:29:45,2024-11-29T06:29:45,1,https://github.com/cognitum-octopus/cognipy
+pandasai-app-gradio,Python,6,2024-10-12T23:02:15,2024-10-13T09:11:42,6,https://github.com/amjadraza/pandasai-app-gradio
+docker-pandas,Makefile,22,2024-09-29T15:21:13,2024-09-29T15:21:36,2,https://github.com/amancevice/docker-pandas
+ic-panda,Svelte,3,2024-08-25T00:48:50,2024-12-15T10:44:00,160,https://github.com/ldclabs/ic-panda
+dojo,JavaScript,28,2024-08-18T23:32:42,2024-12-14T13:12:09,106,https://github.com/nabinno/dojo
+pandas-dataclasses,Python,3,2024-12-09T14:37:12,2024-12-09T15:42:40,9,https://github.com/astropenguin/pandas-dataclasses
+paretoset,Jupyter Notebook,5,2024-09-01T20:11:39,2024-09-01T20:11:39,1,https://github.com/tommyod/paretoset
+first-python-notebook,Makefile,28,2024-08-29T18:13:43,2024-12-02T14:38:40,33,https://github.com/palewire/first-python-notebook
+panda-vscode,TypeScript,3,,,0,https://github.com/chakra-ui/panda-vscode
+prometheus-pandas,Jupyter Notebook,9,2024-09-13T17:32:55,2024-09-13T17:32:55,1,https://github.com/dcoles/prometheus-pandas
+pandas-genomics,Python,8,2024-11-04T14:26:21,2024-11-04T14:26:21,1,https://github.com/HallLab/pandas-genomics
+learn-data-munging,Jupyter Notebook,20,2024-09-14T09:26:44,2024-09-14T10:53:07,10,https://github.com/shauryashaurya/learn-data-munging
+US_Economic_Data_Analysis,Jupyter Notebook,17,2024-08-22T21:18:47,2024-12-14T17:47:11,97,https://github.com/ilchen/US_Economic_Data_Analysis
+panda,Lua,5,2024-10-04T19:34:50,2024-10-04T19:34:50,1,https://github.com/CDSoft/panda
+Data-Analysis-with-Pandas-and-Python,,54,2024-10-21T18:38:17,2024-10-21T18:38:17,1,https://github.com/PacktPublishing/Data-Analysis-with-Pandas-and-Python
+Jandas,TypeScript,1,2024-08-23T11:21:47,2024-09-18T13:57:53,10,https://github.com/frlender/Jandas
+beer-analytics,Python,6,2024-10-05T10:00:33,2024-10-05T10:00:33,1,https://github.com/scheb/beer-analytics
+sageworks,Python,1,2024-08-18T19:20:42,2024-12-14T20:41:16,1288,https://github.com/SuperCowPowers/sageworks
+obsplus,Python,8,2024-10-18T16:45:25,2024-10-18T16:45:25,1,https://github.com/niosh-mining/obsplus
+neontology,Python,6,2024-10-04T06:22:46,2024-11-10T11:55:24,11,https://github.com/ontolocy/neontology
+analytix,Python,5,2024-09-09T14:38:17,2024-10-08T13:32:02,6,https://github.com/parafoxia/analytix
+budget_book,Jupyter Notebook,2,2024-09-20T07:28:18,2024-12-11T14:09:02,12,https://github.com/gerritnowald/budget_book
+Python_Analisis_datos,Jupyter Notebook,12,2024-10-20T22:34:29,2024-10-20T22:34:29,1,https://github.com/bcamandone/Python_Analisis_datos
+Python-Fundamentals,Jupyter Notebook,21,2024-08-29T22:45:41,2024-10-02T18:37:05,6,https://github.com/dlab-berkeley/Python-Fundamentals
+pandas-governance,,3,2024-09-10T20:17:21,2024-10-07T14:52:07,2,https://github.com/pandas-dev/pandas-governance
+pandantic,Python,3,2024-08-27T17:30:50,2024-10-21T14:52:09,16,https://github.com/wesselhuising/pandantic
+es_pandas,Python,11,2024-10-21T18:39:51,2024-11-29T07:09:36,5,https://github.com/fuyb1992/es_pandas
+histogrammar-python,Python,12,2024-12-07T11:31:32,2024-12-10T22:33:43,14,https://github.com/histogrammar/histogrammar-python
+LogAnalyzer,Roff,16,2024-10-02T12:24:15,2024-10-02T12:24:15,1,https://github.com/Wapiti08/LogAnalyzer
+akimbo,Python,6,2024-09-11T15:03:05,2024-12-02T22:05:34,34,https://github.com/intake/akimbo
+whyqd,Python,1,,,0,https://github.com/whythawk/whyqd
+fhiry,Jupyter Notebook,7,2024-10-28T18:47:06,2024-11-20T01:09:46,9,https://github.com/dermatologist/fhiry
+yaetos,Python,8,2024-09-16T21:38:44,2024-12-01T22:30:06,42,https://github.com/arthurprevot/yaetos
+melodist,Python,14,2024-09-04T08:40:07,2024-09-04T08:40:07,1,https://github.com/kristianfoerster/melodist
+Trilha-de-Estudos-de-Data-Science,,8,2024-09-26T21:12:27,2024-11-19T14:55:29,4,https://github.com/HinePo/Trilha-de-Estudos-de-Data-Science
+Complete-Python-Mastery,Jupyter Notebook,28,2024-08-31T12:35:04,2024-09-08T15:54:04,2,https://github.com/Pankaj-Str/Complete-Python-Mastery
+noBSstats,Jupyter Notebook,6,2024-08-21T00:15:51,2024-12-14T00:18:45,37,https://github.com/minireference/noBSstats
+advent-of-code,Shell,6,2024-12-01T14:13:09,2024-12-02T15:21:56,3,https://github.com/dzikoysk/advent-of-code
+AItrika,Python,3,2024-09-23T07:29:04,2024-10-24T14:52:38,46,https://github.com/dSupertramp/AItrika
+panedr,Python,7,2024-11-11T11:04:31,2024-11-11T11:04:31,1,https://github.com/MDAnalysis/panedr
+palette,Python,9,2024-12-10T18:21:43,2024-12-10T18:33:02,4,https://github.com/angristan/palette
+Applications-of-AI-for-Anomaly-Detection,Jupyter Notebook,20,2024-10-29T15:19:33,2024-10-29T15:19:33,1,https://github.com/HROlive/Applications-of-AI-for-Anomaly-Detection
+cluster-experiments,Python,3,2024-11-07T15:58:01,2024-12-13T11:51:10,14,https://github.com/david26694/cluster-experiments
+hatchet,JavaScript,18,2024-08-26T16:51:03,2024-10-29T17:45:21,3,https://github.com/LLNL/hatchet
+pandas-streaming,Python,9,2024-09-07T14:49:51,2024-09-15T10:04:25,4,https://github.com/sdpython/pandas-streaming
+notebooks,Jupyter Notebook,16,2024-08-30T20:57:15,2024-11-25T01:30:39,5,https://github.com/stiles/notebooks
+metamorphosis,Go,4,2024-08-28T13:07:14,2024-09-02T14:02:41,3,https://github.com/Celerway/metamorphosis
+reciprocalspaceship,Python,14,2024-08-24T10:39:02,2024-12-10T15:40:45,20,https://github.com/rs-station/reciprocalspaceship
+pydiverse.pipedag,Python,3,2024-08-23T09:54:00,2024-10-18T08:26:05,39,https://github.com/pydiverse/pydiverse.pipedag
+SuperNNova,Python,8,2024-08-20T05:35:55,2024-11-14T22:01:49,43,https://github.com/supernnova/SuperNNova
+RealTime-TwitterDataAnalysis,Python,15,2024-09-02T09:24:52,2024-09-22T10:09:36,3,https://github.com/kaustav202/RealTime-TwitterDataAnalysis
+res2df,Python,32,2024-08-26T05:45:14,2024-11-28T10:56:19,8,https://github.com/equinor/res2df
+petpy,Python,13,2024-11-06T06:37:04,2024-11-25T00:56:47,35,https://github.com/aschleg/petpy
+sparql-dataframe,Python,7,2024-10-23T19:50:19,2024-10-23T19:50:19,1,https://github.com/lawlesst/sparql-dataframe
+python-db-dtypes-pandas,Python,6,2024-09-17T15:56:51,2024-11-18T23:26:47,11,https://github.com/googleapis/python-db-dtypes-pandas
+propkatraj,Python,7,2024-10-12T00:06:54,2024-10-13T09:41:41,10,https://github.com/Becksteinlab/propkatraj
+hooqu,Python,1,,,0,https://github.com/mfcabrera/hooqu
+Deep-Learning-Playground,TypeScript,8,2024-11-07T22:05:43,2024-11-07T22:19:37,2,https://github.com/DSGT-DLP/Deep-Learning-Playground
+beavers,Python,1,2024-09-04T12:16:56,2024-11-25T11:35:34,7,https://github.com/tradewelltech/beavers
+insyra,Go,4,2024-08-29T11:34:40,2024-12-13T03:43:50,656,https://github.com/HazelnutParadise/insyra
+redpanda-lineage,JavaScript,16,2024-08-20T21:50:10,2024-12-04T17:11:50,143,https://github.com/wwoast/redpanda-lineage
+FrankaTeleop,Python,3,2024-11-12T15:54:07,2024-12-11T17:56:22,4,https://github.com/gjcliff/FrankaTeleop
+anonypy,Python,10,2024-09-20T16:25:32,2024-09-21T00:06:29,5,https://github.com/glassonion1/anonypy
+pipit,Python,6,2024-10-18T14:18:39,2024-10-24T03:50:38,3,https://github.com/hpcgroup/pipit
+DataSciPy,Jupyter Notebook,15,2024-09-04T08:28:42,2024-11-05T07:30:55,8,https://github.com/yoavram/DataSciPy
+PTRAIL,Python,7,2024-11-15T23:13:03,2024-11-15T23:13:03,1,https://github.com/YakshHaranwala/PTRAIL
+PyAI-Github-2024,Jupyter Notebook,6,2024-11-25T05:06:34,2024-11-25T05:06:34,1,https://github.com/godfanmiao/PyAI-Github-2024
+data-science-learning-paths,Jupyter Notebook,3,2024-08-29T10:21:39,2024-11-11T17:02:55,10,https://github.com/point8/data-science-learning-paths
+openpolicedata,Python,4,2024-08-24T17:38:41,2024-11-24T14:15:45,28,https://github.com/openpolicedata/openpolicedata
+AI-ML-Classifiers,Python,12,2024-08-30T02:18:35,2024-11-17T01:03:17,2430,https://github.com/hoangsonww/AI-ML-Classifiers
+degiro-trading-tracker,Python,3,2024-09-01T07:08:48,2024-11-06T08:41:12,2,https://github.com/AdnanHodzic/degiro-trading-tracker
+omniplot,Jupyter Notebook,2,2024-11-09T23:58:45,2024-11-10T00:17:07,4,https://github.com/koonimaru/omniplot
+stream2segment,Python,8,2024-09-03T08:46:45,2024-10-01T15:02:07,5,https://github.com/rizac/stream2segment
+RCDS-data-processing-with-python,Jupyter Notebook,25,,,0,https://github.com/ImperialCollegeLondon/RCDS-data-processing-with-python
+df2img,Python,3,2024-10-13T13:38:47,2024-10-25T22:06:42,6,https://github.com/andreas-vester/df2img
+pysummaries,Python,1,2024-09-19T08:50:11,2024-09-19T12:02:40,6,https://github.com/Genentech/pysummaries
+Estadistica_para_analisis_de_datos,Jupyter Notebook,2,2024-10-13T23:35:46,2024-10-19T15:39:55,3,https://github.com/bcamandone/Estadistica_para_analisis_de_datos
+tsetmc,Python,3,2024-10-04T15:25:22,2024-11-27T16:05:04,43,https://github.com/5j9/tsetmc
+house-price-prediction,Jupyter Notebook,4,2024-10-24T13:22:52,2024-11-08T04:09:14,3,https://github.com/samarjitsahoo/house-price-prediction
+FIW_KRT,Python,8,2024-09-14T23:42:47,2024-12-09T21:30:52,2,https://github.com/visionjo/FIW_KRT
+Kurzy_SAV_DataScience_Python_BI_AI_ML,Jupyter Notebook,21,2024-09-18T14:59:18,2024-11-28T12:41:02,37,https://github.com/miroslav-reiter/Kurzy_SAV_DataScience_Python_BI_AI_ML
+flight-analysis,Python,2,,,0,https://github.com/esalonico/flight-analysis
+kafi,Python,2,2024-08-26T16:13:25,2024-12-10T18:49:31,23,https://github.com/xdgrulez/kafi
+refinaid,Python,5,2024-10-19T11:22:24,2024-12-09T09:09:00,134,https://github.com/1chooo/refinaid
+nseta,Python,14,2024-09-25T07:53:58,2024-09-25T07:53:58,1,https://github.com/pkjmesra/nseta
+minsearch,Python,4,2024-09-30T07:31:21,2024-11-25T19:29:30,2,https://github.com/alexeygrigorev/minsearch
+sas7bdat-converter,Python,4,2024-08-19T03:56:14,2024-12-11T02:52:16,68,https://github.com/sanders41/sas7bdat-converter
+Machine-Learning-using-Python,Python,19,2024-09-05T04:00:47,2024-12-08T23:47:16,31,https://github.com/palVikram/Machine-Learning-using-Python
+pfeed,Python,4,2024-08-30T15:36:47,2024-12-03T07:59:41,47,https://github.com/PFund-Software-Ltd/pfeed
+larentals,Python,4,2024-08-19T19:28:40,2024-12-10T16:14:58,230,https://github.com/perfectly-preserved-pie/larentals
+Artificial-Intelligence-Lab,Jupyter Notebook,17,2024-08-31T17:19:13,2024-12-03T12:21:36,141,https://github.com/mssanamateen/Artificial-Intelligence-Lab
+pytd,Jupyter Notebook,11,2024-08-26T09:23:18,2024-12-06T05:39:11,16,https://github.com/treasure-data/pytd
+PANDA,Python,3,2024-08-20T01:11:45,2024-09-14T11:46:00,3,https://github.com/jeongwhanchoi/PANDA
+The-Ultimate-Pandas-Bootcamp,Jupyter Notebook,0,2024-10-13T14:32:15,2024-11-21T13:54:44,167,https://github.com/rubydamodar/The-Ultimate-Pandas-Bootcamp
+jupyter-devbox,Jupyter Notebook,13,2024-11-05T17:27:58,2024-12-15T17:14:24,12,https://github.com/jakoch/jupyter-devbox
+WatchTower,Python,0,2024-08-18T19:00:16,2024-12-15T12:30:23,356,https://github.com/Narenpradhan/WatchTower
+ansitable,Python,3,2024-10-28T02:40:41,2024-12-10T22:41:46,14,https://github.com/petercorke/ansitable
+toucan-connectors,Python,12,2024-08-19T07:56:36,2024-12-13T08:40:34,89,https://github.com/ToucanToco/toucan-connectors
+libpanda,HTML,11,2024-08-20T18:44:06,2024-11-06T16:14:53,18,https://github.com/jmscslgroup/libpanda
+Simple-MuJoCo-PickNPlace,Python,2,2024-11-22T07:38:22,2024-11-24T05:34:40,2,https://github.com/volunt4s/Simple-MuJoCo-PickNPlace
+nuxt-pandacss,TypeScript,1,2024-08-29T13:31:11,2024-08-29T13:31:11,1,https://github.com/wattanx/nuxt-pandacss
+Data-Science-Challenges,Jupyter Notebook,2,2024-11-27T19:43:36,2024-11-27T19:43:36,1,https://github.com/GabrielReira/Data-Science-Challenges
+cubedpandas,Python,0,2024-08-19T06:57:58,2024-09-23T12:42:52,158,https://github.com/Zeutschler/cubedpandas
+bridge-ds,Python,0,2024-08-20T09:16:11,2024-09-09T08:54:41,9,https://github.com/guybuk/bridge-ds
+ScholarlyRecommender,Python,0,2024-08-29T20:26:50,2024-12-02T17:20:23,4,https://github.com/iansnyder333/ScholarlyRecommender
+Loan-approval-prediction-,Jupyter Notebook,0,2024-10-12T14:14:29,2024-11-24T18:24:05,85,https://github.com/rubydamodar/Loan-approval-prediction-
+pandasai-app,Python,5,2024-10-12T23:02:15,2024-12-05T22:43:00,3,https://github.com/amjadraza/pandasai-app
+panda-rs,Rust,6,2024-09-05T16:08:38,2024-12-13T19:44:39,11,https://github.com/panda-re/panda-rs
+Lours,Python,1,2024-08-22T20:04:20,2024-10-08T14:58:10,95,https://github.com/XXII-AI/Lours
+Pandas-Falling-Trees,Java,0,2024-08-20T20:02:22,2024-11-26T18:18:31,17,https://github.com/PandaMods-Dev/Pandas-Falling-Trees
+rl_panda_gym_pybullet_example,Python,0,2024-10-08T09:26:10,2024-10-15T08:37:56,3,https://github.com/simonbogh/rl_panda_gym_pybullet_example
+redbrick-airdrop-bot,JavaScript,3,2024-09-15T16:03:07,2024-09-18T02:43:22,4,https://github.com/dante4rt/redbrick-airdrop-bot
+Python-for-data-science,Jupyter Notebook,19,2024-09-02T17:48:14,2024-11-28T20:47:07,20,https://github.com/gjbex/Python-for-data-science
+Bodo,Python,0,2024-08-19T15:32:54,2024-12-13T22:28:33,444,https://github.com/bodo-ai/Bodo
+Pandas_Market_Predictor,Python,6,2024-09-15T19:23:46,2024-09-15T19:23:46,1,https://github.com/Code-IA-Insights/Pandas_Market_Predictor
+Ship-Stop-Points-Detection,Python,5,2024-12-09T20:55:52,2024-12-09T20:55:52,1,https://github.com/gtheofilo/Ship-Stop-Points-Detection
+DataScience,Jupyter Notebook,3,2024-11-29T02:04:06,2024-12-02T08:04:53,2,https://github.com/codebysandwich/DataScience
+bquest,Python,0,2024-10-29T13:40:28,2024-10-29T13:40:28,1,https://github.com/ottogroup/bquest
+lorepy,Python,2,2024-09-01T00:33:48,2024-12-01T00:39:05,4,https://github.com/raeslab/lorepy
+omigo-data-analytics,Python,5,2024-08-24T16:21:21,2024-12-05T02:28:40,59,https://github.com/CrowdStrike/omigo-data-analytics
+pastastore,Python,4,2024-09-26T12:39:03,2024-10-15T13:02:02,48,https://github.com/pastas/pastastore
+python-datascience,,1,2024-11-07T05:19:34,2024-12-01T05:29:39,4,https://github.com/kongruksiamza/python-datascience
+eq-python-client,Python,2,2024-09-24T13:52:13,2024-11-01T10:37:59,8,https://github.com/energyquantified/eq-python-client
+Satellite_data,Python,0,2024-08-24T04:27:23,2024-11-02T03:42:10,44,https://github.com/parvvaresh/Satellite_data
+locations,Jupyter Notebook,1,2024-11-02T03:43:40,2024-11-16T23:41:53,4,https://github.com/stiles/locations
+psweep,Python,2,2024-11-27T18:57:35,2024-11-28T23:54:52,10,https://github.com/elcorto/psweep
+Online_preprocessing_for_ML,Python,2,2024-10-14T14:44:15,2024-10-17T13:00:44,10,https://github.com/antonin-lfv/Online_preprocessing_for_ML
+BCRA-Wrapper,Python,3,2024-09-23T20:57:51,2024-10-16T23:01:49,5,https://github.com/Jaldekoa/BCRA-Wrapper
+uf-gym,Python,4,2024-08-29T06:52:56,2024-08-29T06:52:56,1,https://github.com/xArm-Developer/uf-gym
+PandaDemo,Swift,2,2024-10-11T08:27:27,2024-10-11T08:27:27,1,https://github.com/nangege/PandaDemo
+panda-plugin-crv,TypeScript,0,2024-10-22T16:43:23,2024-10-22T16:43:23,1,https://github.com/jonambas/panda-plugin-crv
+cryptodatapy,Python,7,2024-08-22T09:29:24,2024-10-09T10:57:50,39,https://github.com/systamental/cryptodatapy
+FunnyCommands,Java,0,2024-09-08T11:08:43,2024-09-08T12:09:47,3,https://github.com/FunnyGuilds/FunnyCommands
+Blog,Jupyter Notebook,4,2024-08-22T10:15:25,2024-09-19T20:35:05,3,https://github.com/insidelearningmachines/Blog
+Curso_EBAC-Profissao_Cientista_de_Dados,Python,11,2024-09-17T02:00:34,2024-10-11T02:35:57,8,https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados
+antarctic,Python,8,2024-10-08T09:55:18,2024-12-09T23:47:23,39,https://github.com/tschm/antarctic
+kaggle-tutorial,Jupyter Notebook,14,2024-12-04T12:41:13,2024-12-04T16:58:49,10,https://github.com/knsiczarnamagia/kaggle-tutorial
+ingen,Python,5,2024-09-02T11:30:29,2024-12-12T07:40:33,10,https://github.com/blackrock/ingen
+docs,Jupyter Notebook,9,2024-08-19T16:33:00,2024-11-17T07:08:37,63,https://github.com/tradingstrategy-ai/docs
+scrubby,Rust,2,2024-08-21T04:50:01,2024-11-18T21:19:41,10,https://github.com/esteinig/scrubby
+stochatreat,Python,5,2024-11-18T07:43:03,2024-11-18T08:25:20,2,https://github.com/manmartgarc/stochatreat
+eeg-driver-fatigue-detection,Python,2,2024-11-15T17:38:35,2024-11-15T17:39:15,2,https://github.com/ciglenecki/eeg-driver-fatigue-detection
+laboratorio-de-experimentacao-de-software,Python,0,2024-09-14T13:15:22,2024-12-06T22:32:14,21,https://github.com/joaopauloaramuni/laboratorio-de-experimentacao-de-software
+mesa-frames,Python,6,2024-08-19T12:19:49,2024-10-28T10:33:13,64,https://github.com/projectmesa/mesa-frames
+feature-generation-benchmark,Jupyter Notebook,1,2024-11-27T14:39:59,2024-11-27T14:39:59,1,https://github.com/SemyonSinchenko/feature-generation-benchmark
+py-plugin-dataframe-viewer,Python,1,2024-09-03T06:48:21,2024-10-30T19:56:43,21,https://github.com/rendner/py-plugin-dataframe-viewer
+PyQvd,Python,1,2024-09-03T08:50:38,2024-10-26T19:40:55,15,https://github.com/MuellerConstantin/PyQvd
+dpd,Python,1,2024-09-26T03:37:18,2024-09-26T03:38:10,2,https://github.com/davidbailey/dpd
+Binary-Class-Brain-Tumor-Segmentation-Using-UNET,Jupyter Notebook,2,2024-11-15T15:28:34,2024-11-15T15:28:34,1,https://github.com/AHMEDSANA/Binary-Class-Brain-Tumor-Segmentation-Using-UNET
+Pandas-for-Data-Analysis,Jupyter Notebook,7,2024-10-04T19:40:17,2024-10-07T11:43:00,3,https://github.com/AnalystBuilder/Pandas-for-Data-Analysis
+pymort,Jupyter Notebook,3,2024-09-09T12:31:32,2024-09-09T12:31:32,1,https://github.com/actuarialopensource/pymort
+sciscraper,Roff,5,2024-08-30T13:33:00,2024-12-07T19:56:49,12,https://github.com/Pathos315/sciscraper
+Python-for-beginners,Jupyter Notebook,12,2024-08-28T08:18:00,2024-09-01T10:57:56,4,https://github.com/utk2103/Python-for-beginners
+metadata-editing-python,Python,3,2024-10-07T17:39:26,2024-10-18T15:26:09,3,https://github.com/mjanowiecki/metadata-editing-python
+PySPARQL-Anything,Python,2,2024-09-09T14:04:12,2024-09-11T12:09:43,10,https://github.com/SPARQL-Anything/PySPARQL-Anything
+csv-metadata-quality,Python,0,2024-08-21T14:41:36,2024-10-11T17:02:53,9,https://github.com/ilri/csv-metadata-quality
+ycnbc,Python,2,2024-08-22T02:50:38,2024-08-27T08:22:45,3,https://github.com/asepscareer/ycnbc
+gpxcsv,Python,0,2024-08-20T16:31:52,2024-08-23T14:03:37,19,https://github.com/astrowonk/gpxcsv
+python-ags4,Jupyter Notebook,7,2024-08-27T00:01:31,2024-09-04T04:06:28,8,https://github.com/asitha-sena/python-ags4
+Pandas-Cookbook-Third-Edition,Jupyter Notebook,4,2024-10-29T10:41:50,2024-11-04T14:31:26,9,https://github.com/WillAyd/Pandas-Cookbook-Third-Edition
+sdmxthon,Python,1,,,0,https://github.com/Meaningful-Data/sdmxthon
+nested-pandas,Python,1,2024-08-19T18:30:14,2024-11-26T23:18:28,62,https://github.com/lincc-frameworks/nested-pandas
+panda_controllers,C++,3,2024-10-15T13:44:14,2024-10-15T13:44:14,1,https://github.com/CentroEPiaggio/panda_controllers
+nmisp,Jupyter Notebook,62,2024-09-15T09:42:49,2024-12-13T13:32:53,43,https://github.com/kangwonlee/nmisp
+microdf,Python,10,2024-10-23T17:38:24,2024-10-29T17:22:01,10,https://github.com/PolicyEngine/microdf
+TemporalScope,Python,0,2024-08-17T19:09:47,2024-12-09T03:56:01,176,https://github.com/philip-ndikum/TemporalScope
+quool,Python,3,,,0,https://github.com/ppoak/quool
+FoliumTools,Jupyter Notebook,2,2024-09-09T08:02:58,2024-09-09T08:05:30,2,https://github.com/Moscarde/FoliumTools
+palletjack,Python,0,2024-08-16T23:23:41,2024-10-08T20:21:40,10,https://github.com/agrc/palletjack
+Loan-amount-prediction-regression,Jupyter Notebook,9,2024-10-19T03:32:11,2024-10-19T04:15:52,3,https://github.com/semasuka/Loan-amount-prediction-regression
+Mall-Customers-Segmentation,Jupyter Notebook,2,2024-08-19T18:51:51,2024-11-10T16:38:20,126,https://github.com/devotuoma/Mall-Customers-Segmentation
+aiosqlitedict,Python,1,2024-11-12T06:15:47,2024-11-12T06:15:47,1,https://github.com/sabrysm/aiosqlitedict
+panda-server,Python,22,2024-08-19T10:34:08,2024-12-11T08:50:30,548,https://github.com/PanDAWMS/panda-server
+Python-Data-Wrangling,Jupyter Notebook,12,2024-08-29T23:05:11,2024-10-01T18:49:35,2,https://github.com/dlab-berkeley/Python-Data-Wrangling
+pyopenms_viz,Jupyter Notebook,4,2024-08-23T01:36:24,2024-11-28T22:28:54,226,https://github.com/OpenMS/pyopenms_viz
+Pandas,C++,3,2024-09-16T14:31:32,2024-09-22T12:33:30,5,https://github.com/PandasWS/Pandas
+pan-domain-authentication,Scala,12,2024-09-04T09:22:41,2024-12-10T11:29:25,56,https://github.com/guardian/pan-domain-authentication
+codeperfectplus,,18,2024-08-19T01:12:18,2024-09-25T09:36:10,2,https://github.com/codeperfectplus/codeperfectplus
+PandaShifu,Python,0,2024-09-19T07:08:14,2024-09-23T04:32:35,6,https://github.com/XiongPengNUS/PandaShifu
+rdsa-utils,Python,1,2024-09-02T07:12:29,2024-12-13T10:51:02,67,https://github.com/ONSdigital/rdsa-utils
+machine_learning,Jupyter Notebook,2,2024-11-28T06:55:12,2024-12-15T02:04:31,52,https://github.com/530154436/machine_learning
+curso-analisis-datos,Jupyter Notebook,3,2024-12-14T14:45:39,2024-12-15T15:54:53,13,https://github.com/r2d2-coder-git/curso-analisis-datos
+python_data_analysis,Jupyter Notebook,2,2024-11-12T06:36:14,2024-11-12T06:36:14,1,https://github.com/telunyang/python_data_analysis
+Python4DataScience,Python,3,2024-09-03T14:40:07,2024-12-08T19:36:13,33,https://github.com/cusyio/Python4DataScience
+dodgers,Jupyter Notebook,1,2024-08-18T22:03:42,2024-12-15T16:05:22,355,https://github.com/stiles/dodgers
+dash-iptu,Jupyter Notebook,0,2024-08-21T19:42:47,2024-10-08T14:03:25,6,https://github.com/cem-usp/dash-iptu
+tradingview-pine-scripts,Python,1,2024-09-18T01:54:53,2024-09-18T10:39:33,2,https://github.com/hasnocool/tradingview-pine-scripts
+letterboxd_stats,Python,1,2024-08-27T09:20:37,2024-12-11T11:32:35,13,https://github.com/mBaratta96/letterboxd_stats
+sfguide-data-engineering-pipelines-with-pandas-on-snowflake,Jupyter Notebook,36,2024-09-03T23:20:10,2024-11-22T03:53:03,8,https://github.com/Snowflake-Labs/sfguide-data-engineering-pipelines-with-pandas-on-snowflake
+imodmodel,Python,7,2024-12-04T20:00:12,2024-12-11T23:29:11,2,https://github.com/teamtomo/imodmodel
+sml-python-small,Python,5,2024-09-23T10:08:57,2024-11-07T13:59:51,7,https://github.com/ONSdigital/sml-python-small
+statmanager-kr,Python,4,2024-09-02T03:55:06,2024-10-18T06:20:36,10,https://github.com/ckdckd145/statmanager-kr
+Analyzing-Electric-Vehicle-Charging-Patterns-Insights-and-Visualizations,Jupyter Notebook,0,2024-11-19T16:10:31,2024-11-19T16:28:15,4,https://github.com/patelhitakshi28/Analyzing-Electric-Vehicle-Charging-Patterns-Insights-and-Visualizations
+sk-transformers,Python,0,,,0,https://github.com/chrislemke/sk-transformers
+tz-canary,Python,2,2024-09-20T08:16:46,2024-09-26T18:49:57,14,https://github.com/leonoverweel/tz-canary
+Robinhood-Trading-Journal,Python,6,2024-10-02T02:29:49,2024-10-02T02:29:49,1,https://github.com/virajkothari7/Robinhood-Trading-Journal
+ticker_data,Python,4,2024-12-08T04:43:08,2024-12-12T20:49:43,22,https://github.com/orville-wright/ticker_data
+Feynn-Labs-Internship-2022,Jupyter Notebook,3,2024-08-28T03:40:56,2024-08-28T03:52:57,2,https://github.com/Rohit-Rannavre/Feynn-Labs-Internship-2022
+sih2022-interface,Python,4,2024-08-21T20:40:51,2024-08-29T23:20:05,2,https://github.com/aaparikh/sih2022-interface
+Deep_reinforcement_learning_Bachelor_project,Python,4,2024-10-29T14:42:49,2024-10-29T14:43:39,2,https://github.com/abdalla1912mohamed/Deep_reinforcement_learning_Bachelor_project
+python_note,Jupyter Notebook,0,2024-09-02T06:42:22,2024-09-02T17:26:25,4,https://github.com/zsy0x/python_note
+data-slices,Jupyter Notebook,0,2024-09-18T06:22:37,2024-10-06T13:32:35,3,https://github.com/caesarmario/data-slices
+python-for-social-science,Jupyter Notebook,24,2024-09-02T16:32:22,2024-12-12T06:56:49,14,https://github.com/gawron/python-for-social-science
+dbhydra,Python,2,2024-09-09T06:57:00,2024-11-02T15:29:38,17,https://github.com/DovaX/dbhydra
+gsheet-pandas,Python,1,2024-11-25T14:44:52,2024-11-25T14:44:52,1,https://github.com/iakov-kaiumov/gsheet-pandas
+py4macro,Python,3,2024-09-20T00:38:33,2024-09-22T08:54:44,2,https://github.com/Py4Macro/py4macro
+ping_cheker_with_pandas,Jupyter Notebook,0,2024-11-20T13:40:41,2024-11-20T13:44:55,4,https://github.com/shahinzeyni/ping_cheker_with_pandas
+tfs,Python,4,2024-11-14T16:10:16,2024-11-14T16:10:16,1,https://github.com/pylhc/tfs
+pystatis,Jupyter Notebook,1,2024-10-21T19:22:30,2024-12-04T19:17:03,21,https://github.com/CorrelAid/pystatis
+Web-Scraping-and-Data-Collection-with-Python,Jupyter Notebook,0,2024-11-20T11:28:20,2024-11-20T11:38:28,5,https://github.com/patelhitakshi28/Web-Scraping-and-Data-Collection-with-Python
+python-tutorial,Jupyter Notebook,5,2024-10-26T07:42:22,2024-11-16T17:07:10,3,https://github.com/jbossios/python-tutorial
+Driving_Negligence_Dissuader_System,Python,3,2024-11-18T11:14:37,2024-11-18T11:14:37,1,https://github.com/DevHassanMehdi/Driving_Negligence_Dissuader_System
+python-tools-for-students,Jupyter Notebook,4,,,0,https://github.com/students-teach-students/python-tools-for-students
+Full-Stack-Data-Science,Jupyter Notebook,3,2024-08-19T06:45:41,2024-12-08T08:45:24,114,https://github.com/kannanjayachandran/Full-Stack-Data-Science
+blog,Jupyter Notebook,3,2024-08-19T08:05:05,2024-12-12T08:04:45,116,https://github.com/szekelydata/blog
+providence,Python,0,2024-10-09T07:24:00,2024-12-02T21:45:20,48,https://github.com/mrzzy/providence
+pandas-feedstock,,36,2024-09-20T13:11:28,2024-11-06T08:27:55,8,https://github.com/conda-forge/pandas-feedstock
+mrpowers-benchmarks,Jupyter Notebook,4,2024-08-24T14:40:51,2024-12-15T17:43:42,16,https://github.com/MrPowers/mrpowers-benchmarks
+mmdf,Python,3,2024-12-10T23:05:24,2024-12-12T22:54:19,6,https://github.com/teamtomo/mmdf
+df_utils,Python,2,2024-08-27T21:45:42,2024-08-27T21:45:42,1,https://github.com/igorp74/df_utils
+pandas_tricks,Jupyter Notebook,2,2024-10-06T16:15:07,2024-10-21T00:01:32,2,https://github.com/boedybios/pandas_tricks
+franka_ros_mujoco,C++,4,2024-09-24T08:46:33,2024-10-22T16:42:13,5,https://github.com/ubi-agni/franka_ros_mujoco
+taegis-magic,Python,5,2024-08-08T18:31:29,2024-12-12T15:09:17,24,https://github.com/secureworks/taegis-magic
+MolDF,Python,2,2024-11-12T09:02:08,2024-11-25T05:06:30,7,https://github.com/Ruibin-Liu/MolDF
+daffodil,Python,2,2024-08-28T18:57:34,2024-11-16T03:08:16,9,https://github.com/raylutz/daffodil
+web_scraping,Jupyter Notebook,4,2024-09-02T13:36:48,2024-11-08T14:08:34,36,https://github.com/corazzon/web_scraping
+pandas-pyarrow,Python,1,2024-08-22T16:51:25,2024-12-12T17:05:23,77,https://github.com/DanielAvdar/pandas-pyarrow
+mdpd,Python,1,2024-10-01T22:00:06,2024-11-14T14:05:50,4,https://github.com/kyoto7250/mdpd
+Pandas-V2,PHP,0,,,0,https://github.com/LovelySpace1001/Pandas-V2
+vtools3,Jupyter Notebook,1,2024-10-09T18:08:43,2024-12-10T16:58:12,2,https://github.com/CADWRDeltaModeling/vtools3
+portifolio,Jupyter Notebook,4,2024-10-23T22:32:42,2024-10-23T22:59:05,3,https://github.com/maisonhenrique/portifolio
+dash-express,Python,1,2024-11-09T18:18:10,2024-11-09T18:18:10,1,https://github.com/stpnvkirill/dash-express
+python-tutorial,Python,4,2024-09-08T06:50:48,2024-10-13T07:38:48,22,https://github.com/jincheng9/python-tutorial
+sharepoint-online-python,Python,1,2024-12-05T22:19:13,2024-12-06T09:11:32,2,https://github.com/jamesgrogantech/sharepoint-online-python
+pharmacovigilance-literature-mining,Jupyter Notebook,0,2024-09-04T18:31:41,2024-11-03T17:34:24,31,https://github.com/bmascat/pharmacovigilance-literature-mining
+Machine-Learning,Python,2,2024-08-19T03:48:47,2024-10-04T11:43:22,194,https://github.com/mohansaidinesh/Machine-Learning
+DataScienceProjects,Jupyter Notebook,0,2024-09-14T10:37:28,2024-10-29T18:59:44,21,https://github.com/helios12/DataScienceProjects
+IBM-Data-Science-Professional-Certificate,Jupyter Notebook,3,2024-11-09T04:17:26,2024-11-09T04:19:33,4,https://github.com/shivamtomershiv/IBM-Data-Science-Professional-Certificate
+CUTM-Result-Portal,HTML,0,2024-09-11T04:03:34,2024-11-24T06:38:48,8,https://github.com/minnukota381/CUTM-Result-Portal
+YSMR,Python,0,2024-10-15T17:16:03,2024-11-08T21:44:02,3,https://github.com/schwanbeck/YSMR
+wnba-analytics-dash-ai-insights,Python,1,2024-10-14T22:02:44,2024-10-16T20:16:31,13,https://github.com/elizabethsiegle/wnba-analytics-dash-ai-insights
+Pandas-Cheat-Sheet,,6,2024-08-29T22:12:59,2024-08-30T18:11:23,6,https://github.com/yousufislam191/Pandas-Cheat-Sheet
+pandas_101,Jupyter Notebook,5,2024-08-26T09:16:57,2024-08-26T09:16:57,1,https://github.com/YLTsai0609/pandas_101
+pandas_to_polars,Jupyter Notebook,2,2024-08-19T19:11:13,2024-08-19T19:11:13,1,https://github.com/Wilmar3752/pandas_to_polars
+getFamaFrenchFactors,Python,6,2024-09-25T08:19:38,2024-09-25T08:19:38,1,https://github.com/vashOnGitHub/getFamaFrenchFactors
+acrocord,Python,3,2024-11-28T16:56:58,2024-11-28T16:56:58,1,https://github.com/eurobios-mews-labs/acrocord
+PandasArrow,C++,0,2024-08-28T16:36:29,2024-12-10T05:51:34,17,https://github.com/EPOCHDevs/PandasArrow
+yahoo-fantasy-fball-scraper,Python,1,2024-08-23T19:07:06,2024-08-23T19:07:06,1,https://github.com/andrewrgoss/yahoo-fantasy-fball-scraper
+Pandas_parsing_xlsx,Python,0,2024-11-10T12:41:44,2024-11-10T12:41:44,1,https://github.com/Pydeni/Pandas_parsing_xlsx
+BambuAppDaemon,Python,2,2024-08-20T19:41:15,2024-10-13T17:10:03,5,https://github.com/gpambrozio/BambuAppDaemon
+runpandarun,Python,0,2024-09-04T00:30:53,2024-11-08T09:56:52,81,https://github.com/simonwoerpel/runpandarun
+paga-ui,Vue,0,2024-08-24T16:37:55,2024-12-14T08:27:25,49,https://github.com/dangvanthanh/paga-ui
+divexplorer,Jupyter Notebook,0,2024-11-05T01:14:43,2024-12-06T21:04:44,12,https://github.com/divexplorer/divexplorer
+HaSa,Jupyter Notebook,3,2024-10-16T18:57:07,2024-10-16T19:48:54,13,https://github.com/AquibPy/HaSa
+Oil-Gas-Drilling-Activity-Prediction,Jupyter Notebook,4,2024-09-07T15:11:34,2024-09-07T15:11:34,1,https://github.com/antoniodagnino/Oil-Gas-Drilling-Activity-Prediction
+mental-health-app,Python,2,2024-11-18T00:59:17,2024-11-18T00:59:17,1,https://github.com/Tanguy9862/mental-health-app
+blueetl,Python,1,2024-09-30T12:44:17,2024-12-05T16:29:56,7,https://github.com/BlueBrain/blueetl
+Blockchain-arbitrage-analysis,Jupyter Notebook,1,2024-10-29T10:21:07,2024-10-29T10:21:07,1,https://github.com/whoIsClownHere/Blockchain-arbitrage-analysis
+Predicta,CSS,1,2024-08-29T16:01:48,2024-12-07T18:07:19,15,https://github.com/ahammadnafiz/Predicta
+Wind-Turbine-Power-Prediction-App-using-Machine-Learning,HTML,2,2024-09-16T22:47:19,2024-11-01T13:27:16,5,https://github.com/Ahmed-Maher77/Wind-Turbine-Power-Prediction-App-using-Machine-Learning
+clippy,Python,1,2024-09-04T00:03:40,2024-09-11T17:43:58,23,https://github.com/abtsousa/clippy
+Machine-Learning-Practice,Jupyter Notebook,0,2024-11-19T23:18:18,2024-12-07T23:11:44,22,https://github.com/AbuBakkar32/Machine-Learning-Practice
+jbooks,Jupyter Notebook,4,2024-08-21T14:59:00,2024-12-04T15:09:55,31,https://github.com/christophergarthwood/jbooks
+pandas-to-pydantic,Python,2,2024-11-15T04:24:48,2024-11-18T00:01:04,6,https://github.com/magicalpuffin/pandas-to-pydantic
+pandas-swarm,Python,2,2024-11-11T17:18:06,2024-11-16T09:35:52,5,https://github.com/RezaS0/pandas-swarm
+FUEL_CONSUMPTION_ANALYSIS,Jupyter Notebook,2,2024-09-10T14:21:18,2024-09-10T14:21:18,1,https://github.com/manishhemnani06/FUEL_CONSUMPTION_ANALYSIS
+atollas,Python,0,2024-10-16T10:14:54,2024-10-16T10:14:54,1,https://github.com/benrutter/atollas
+Recommendation_System_Allrecipes,Jupyter Notebook,3,2024-09-05T13:24:56,2024-09-05T13:24:56,1,https://github.com/karenwky/Recommendation_System_Allrecipes
+pandas_handbook_utools,HTML,0,2024-10-23T02:38:44,2024-10-23T02:38:44,1,https://github.com/djw-easy/pandas_handbook_utools
+pandas-indexing,Python,1,2024-08-23T15:45:44,2024-12-01T14:37:35,9,https://github.com/coroa/pandas-indexing
+Customer-Purchase-Insights,Jupyter Notebook,0,2024-08-31T14:35:45,2024-09-02T14:32:03,5,https://github.com/shreyamalogi/Customer-Purchase-Insights
+share-df,Python,0,2024-11-23T02:27:22,2024-12-14T08:53:16,61,https://github.com/RohanAdwankar/share-df
+data-prepossessing-using-pandas,Jupyter Notebook,0,2024-08-20T11:38:36,2024-08-20T12:10:26,3,https://github.com/shreyamalogi/data-prepossessing-using-pandas
+pyspssio,Python,0,2024-11-09T22:19:47,2024-11-09T22:19:47,1,https://github.com/stspec/pyspssio
+Chess-ETL-and-Performance-Insights,Python,0,2024-10-03T00:42:40,2024-10-03T02:31:45,6,https://github.com/YoussefAtef91/Chess-ETL-and-Performance-Insights
+mission_dotlas,Jupyter Notebook,7,2024-09-02T04:34:50,2024-09-02T04:34:50,1,https://github.com/dotlas/mission_dotlas
+panda-plugin-ct,TypeScript,1,2024-10-22T16:43:39,2024-10-22T18:28:10,2,https://github.com/jonambas/panda-plugin-ct
+ninodata,Python,1,2024-11-14T00:38:29,2024-11-19T19:04:28,2,https://github.com/ahuang11/ninodata
+pygenebe,Python,0,2024-08-30T08:03:55,2024-11-02T09:48:38,3,https://github.com/pstawinski/pygenebe
+Samsung-Innovation-Campus-Python-Course,Jupyter Notebook,5,2024-11-25T14:33:27,2024-11-25T14:33:27,1,https://github.com/Galaxy092/Samsung-Innovation-Campus-Python-Course
+OilHack,Jupyter Notebook,0,2024-11-05T13:53:45,2024-11-05T13:53:45,1,https://github.com/DoctorSB/OilHack
+Stock-Price-Scraper-Using-Python,Python,0,2024-09-05T17:39:04,2024-09-05T17:49:47,6,https://github.com/soroush-saki/Stock-Price-Scraper-Using-Python
+panda-ros-py,Python,0,2024-08-28T15:54:52,2024-12-10T16:50:54,27,https://github.com/platonics-delft/panda-ros-py
+Noob-to-Ninja-ML,Jupyter Notebook,14,2024-10-04T09:13:09,2024-10-23T05:33:34,22,https://github.com/aarushiksk/Noob-to-Ninja-ML
+gecko,Python,1,2024-08-29T12:22:39,2024-12-09T10:30:38,193,https://github.com/ul-mds/gecko
+prometheus-csvplot,Python,2,2024-08-19T07:22:44,2024-08-19T07:22:44,1,https://github.com/hifly81/prometheus-csvplot
+reflex-plot,Python,1,2024-10-02T17:56:25,2024-10-13T15:46:29,4,https://github.com/lucianosrp/reflex-plot
+dash_dataframe_table,Python,0,2024-10-31T17:28:05,2024-11-14T14:08:40,2,https://github.com/astrowonk/dash_dataframe_table
+Python-Coding-Challenges,Jupyter Notebook,0,2024-08-28T22:32:49,2024-10-29T05:24:19,29,https://github.com/haroldeustaquio/Python-Coding-Challenges
+xlslim-code-samples,Python,0,2024-10-11T16:13:38,2024-11-01T16:07:55,5,https://github.com/RusselWebber/xlslim-code-samples
+AI-and-Deep-Learning-Bootcamp,Jupyter Notebook,1,2024-08-24T19:35:57,2024-08-24T19:35:57,1,https://github.com/Sayed-Husain/AI-and-Deep-Learning-Bootcamp
+remesas,Python,1,2024-12-07T17:00:42,2024-12-14T19:51:18,4,https://github.com/lapanquecita/remesas
+Startups,Jupyter Notebook,0,2024-09-23T13:09:09,2024-09-24T06:16:46,14,https://github.com/Melanee-Melanee/Startups
+Traffic-Monitoring-System,Python,1,2024-10-07T04:22:14,2024-10-07T04:22:14,1,https://github.com/DebajyotiTalukder2001/Traffic-Monitoring-System
+My_Portfolio_Projects,Jupyter Notebook,0,2024-08-21T06:17:52,2024-12-04T10:39:41,17,https://github.com/gozdemadendere/My_Portfolio_Projects
+Drug-Target-Discovery-Using-LLMs-and-Knowledge-Graphs,Python,1,2024-09-11T05:54:06,2024-09-12T06:06:49,5,https://github.com/DrReetuSharma/Drug-Target-Discovery-Using-LLMs-and-Knowledge-Graphs
+lightning-containers,Jupyter Notebook,2,2024-10-01T19:22:07,2024-11-03T03:33:18,53,https://github.com/BayoAdejare/lightning-containers
+storytelling-2024,Jupyter Notebook,1,2024-08-20T16:26:48,2024-12-07T00:30:50,223,https://github.com/Mindful-AI-Assistants/storytelling-2024
+online-employee-management-system,TypeScript,1,2024-09-10T20:17:25,2024-12-04T04:42:20,318,https://github.com/shaikhyakubhossain/online-employee-management-system
+PythonFamily,Python,0,2024-08-19T09:18:12,2024-09-03T15:40:12,19,https://github.com/shgopher/PythonFamily
+machine-learning-in-chess,Jupyter Notebook,1,2024-11-22T22:13:05,2024-11-22T22:16:53,2,https://github.com/IsaacCheng9/machine-learning-in-chess
+python-pandas-tutorial,Python,65,2024-08-26T14:02:20,2024-11-15T19:31:48,6,https://github.com/4GeeksAcademy/python-pandas-tutorial
+pandas-datareader-feedstock,,11,2024-11-06T08:28:01,2024-11-06T08:28:01,1,https://github.com/conda-forge/pandas-datareader-feedstock
+CPP_Assignment,Jupyter Notebook,27,2024-11-27T12:41:25,2024-12-06T15:28:31,11,https://github.com/mnp-club/CPP_Assignment
+pandastutorial,,2,2024-11-07T06:08:50,2024-12-01T05:28:29,4,https://github.com/kongruksiamza/pandastutorial
+Start_with_pandas,Python,2,2024-09-29T14:39:38,2024-10-05T16:09:40,10,https://github.com/wasay-698/Start_with_pandas
+pandas-mastery,Python,2,2024-09-19T21:57:49,2024-09-19T22:03:28,2,https://github.com/TechWithDunamix/pandas-mastery
+sfguide-getting-started-with-pandas-on-snowflake,Jupyter Notebook,3,2024-08-30T17:51:47,2024-11-22T03:50:31,11,https://github.com/Snowflake-Labs/sfguide-getting-started-with-pandas-on-snowflake
+omero2pandas,Python,2,2024-08-26T15:05:59,2024-12-11T10:15:50,4,https://github.com/glencoesoftware/omero2pandas
+pandas-ebook-ai,,2,2024-10-14T13:05:09,2024-10-16T18:42:00,3,https://github.com/devcaiada/pandas-ebook-ai
+pandas-query-generator,Python,1,2024-09-26T03:33:20,2024-12-13T03:22:33,65,https://github.com/DISLMcGill/pandas-query-generator
+campaignproject,Jupyter Notebook,0,2024-10-28T04:11:21,2024-10-29T03:26:13,9,https://github.com/carloscoronatax/campaignproject
+nested-dask,Python,1,2024-08-23T18:42:07,2024-11-06T22:54:29,35,https://github.com/lincc-frameworks/nested-dask
+pandas-wizard,Python,0,2024-08-26T05:22:26,2024-12-11T12:17:03,11,https://github.com/sharkutilities/pandas-wizard
+pandas-appender,Python,0,2024-09-02T03:48:43,2024-09-02T03:48:43,1,https://github.com/wumpus/pandas-appender
+DataScience,Jupyter Notebook,16,2024-09-17T17:23:34,2024-11-25T06:19:48,93,https://github.com/canbula/DataScience
+Pandas-Numpy-Matplotlib-Seaborn,Jupyter Notebook,0,2024-08-29T09:55:04,2024-10-31T17:45:46,5,https://github.com/Warishayat/Pandas-Numpy-Matplotlib-Seaborn
+Tecnicas_de_filtrado_con_PANDAS,Jupyter Notebook,1,2024-08-29T13:28:44,2024-08-29T13:35:33,4,https://github.com/fhlabate/Tecnicas_de_filtrado_con_PANDAS
+panda-css-presets,TypeScript,0,2024-10-27T19:30:33,2024-10-27T19:55:18,2,https://github.com/amandaguthrie/panda-css-presets
+TextToCSV_WithPandas,Jupyter Notebook,0,2024-08-26T21:50:44,2024-10-28T02:11:06,68,https://github.com/aneeshkrishna4739/TextToCSV_WithPandas
+STAREPandas,Python,1,2024-08-18T23:38:16,2024-08-23T04:54:53,3,https://github.com/SpatioTemporal/STAREPandas
+HA-Panda-PWR,Python,0,2024-11-14T09:51:22,2024-11-18T02:28:11,33,https://github.com/juanillo62gm/HA-Panda-PWR
+PandyTask,Java,1,2024-11-16T07:50:19,2024-11-16T07:50:19,1,https://github.com/soypato/PandyTask
+dataframe,C++,1,2024-11-18T09:15:15,2024-12-11T10:19:08,50,https://github.com/xaliphostes/dataframe
+XLSXAssembler_Public,Python,0,2024-10-06T12:47:56,2024-10-14T22:03:52,27,https://github.com/NickLitwinow/XLSXAssembler_Public
+gncxml,Python,1,2024-08-31T01:51:19,2024-12-01T18:27:59,5,https://github.com/LiosK/gncxml
+Data-Science,Jupyter Notebook,3,2024-08-23T04:25:13,2024-08-24T10:32:35,7,https://github.com/dilkushsingh/Data-Science
+Data-Analysis-for-Data-Thon,Jupyter Notebook,1,2024-10-15T21:32:53,2024-11-04T00:32:56,9,https://github.com/Semai-Mohamed/Data-Analysis-for-Data-Thon
+promql-http-api,Python,1,2024-11-22T22:17:26,2024-11-22T22:17:26,1,https://github.com/nir-arad/promql-http-api
+dreamy-ui,TypeScript,0,2024-11-09T16:55:03,2024-12-13T21:30:44,52,https://github.com/dreamy-ui/dreamy-ui
+pacopanda-drawing-stats,Python,1,2024-08-25T01:27:06,2024-10-07T01:54:36,5,https://github.com/kuroji-fusky/pacopanda-drawing-stats
+Hotel-Booking-Management-System,Python,0,2024-11-20T10:43:48,2024-11-20T10:44:09,2,https://github.com/AdvaitKisar/Hotel-Booking-Management-System
+data,Python,1,2024-11-06T01:00:06,2024-11-06T01:00:06,1,https://github.com/big-data-estacio/data
+RECOMMANDATION_SYSTEM_WITH_PYTHON,Jupyter Notebook,1,2024-10-01T09:17:30,2024-10-01T09:21:28,3,https://github.com/Ehtijad-Ali/RECOMMANDATION_SYSTEM_WITH_PYTHON
+incidencia-delictiva,Python,1,2024-09-24T13:14:36,2024-11-10T20:51:50,3,https://github.com/lapanquecita/incidencia-delictiva
+pyFuppes,Python,1,2024-09-06T06:44:24,2024-12-10T16:47:04,7,https://github.com/FObersteiner/pyFuppes
+wordle,Python,1,2024-10-31T15:33:57,2024-10-31T15:33:57,1,https://github.com/astrowonk/wordle
+Book_Recommendation,Jupyter Notebook,1,2024-08-19T15:15:37,2024-08-20T07:57:48,2,https://github.com/Nishant2018/Book_Recommendation
+cricket_data,Python,0,2024-08-19T01:59:48,2024-11-14T13:07:36,175,https://github.com/sawlachintan/cricket_data
+EDA_and_Feature-Engineering-on-Zomato-Data,Jupyter Notebook,0,2024-11-22T16:17:58,2024-11-22T17:05:15,5,https://github.com/CoderNitu/EDA_and_Feature-Engineering-on-Zomato-Data
+IBM-Data-Science-Professional-Certificate,Jupyter Notebook,4,2024-10-27T01:21:24,2024-10-27T01:24:43,2,https://github.com/KailaniBailey/IBM-Data-Science-Professional-Certificate
+Data-Mining,Jupyter Notebook,0,2024-09-10T04:56:57,2024-09-11T20:31:51,5,https://github.com/Hamid-Rezaei/Data-Mining
+Fantasy-Sports-Projections,Jupyter Notebook,0,2024-10-17T15:58:46,2024-10-23T02:50:38,3,https://github.com/mdbinger/Fantasy-Sports-Projections
+Zomato-Data-Analysis,Jupyter Notebook,0,2024-09-02T14:24:24,2024-09-02T14:29:29,4,https://github.com/shreyamalogi/Zomato-Data-Analysis
+Sentiment-Analysis-on-Stocks-Data-using-NLP,Jupyter Notebook,1,2024-12-08T07:32:49,2024-12-08T07:32:49,1,https://github.com/AYSE-DUMAN/Sentiment-Analysis-on-Stocks-Data-using-NLP
+pydala2,Python,0,2024-08-20T15:35:54,2024-12-12T14:48:10,80,https://github.com/legout/pydala2
+IrishRent,TypeScript,1,2024-10-05T14:18:18,2024-10-05T14:18:18,1,https://github.com/SeanFitzpatrick0/IrishRent
+All_ML_Models,Jupyter Notebook,0,2024-08-19T14:55:39,2024-09-02T06:20:26,9,https://github.com/tosifAN/All_ML_Models
+sqlalchemy-cratedb,Python,2,2024-08-19T19:00:08,2024-12-02T18:27:46,31,https://github.com/crate/sqlalchemy-cratedb
+sirius-ai,Jupyter Notebook,0,2024-12-09T12:45:06,2024-12-13T16:18:42,42,https://github.com/voorhs/sirius-ai
+cmplot.py,Python,0,2024-10-08T08:59:08,2024-12-15T13:50:27,2,https://github.com/g-insana/cmplot.py
+OLX-Mining-and-analyzing-house-prices,Python,0,2024-09-01T16:20:50,2024-12-15T16:18:40,12,https://github.com/Allama272/OLX-Mining-and-analyzing-house-prices
+pdbepisa-binder,Jupyter Notebook,1,2024-11-20T22:04:57,2024-11-20T22:05:36,2,https://github.com/fomightez/pdbepisa-binder
+massar-direction-sagoubot,Python,0,2024-12-05T20:48:24,2024-12-05T20:48:24,1,https://github.com/medsagou/massar-direction-sagoubot
+anomalytics,Python,1,,,0,https://github.com/Aeternalis-Ingenium/anomalytics
+Data-Science-CheatSheets,Jupyter Notebook,0,2024-08-25T11:27:05,2024-11-22T21:54:52,3,https://github.com/singhdivyank/Data-Science-CheatSheets
+Combating-Twitter-Hate-Speech-Using-ML-and-NLP,Jupyter Notebook,1,2024-10-01T12:23:24,2024-10-01T12:23:24,1,https://github.com/klimanyusuf/Combating-Twitter-Hate-Speech-Using-ML-and-NLP
+Flask-Pandas-App,HTML,6,2024-11-19T06:04:26,2024-11-19T06:04:26,1,https://github.com/the-akira/Flask-Pandas-App
+catalog-data,Jupyter Notebook,6,2024-08-23T23:41:20,2024-12-10T21:29:20,84,https://github.com/CAIDA/catalog-data
+pandas,Jupyter Notebook,2,2024-11-30T10:18:17,2024-11-30T10:19:14,3,https://github.com/AbhisheakSaraswat/pandas
+Machine-Learning,Jupyter Notebook,3,2024-12-08T20:04:48,2024-12-08T20:04:48,1,https://github.com/JanathanPlanas/Machine-Learning
+dias-benchmarks,Jupyter Notebook,2,2024-12-07T07:58:17,2024-12-07T07:58:57,2,https://github.com/ADAPT-uiuc/dias-benchmarks
+convectors,Python,2,2024-09-09T12:24:14,2024-11-20T17:15:19,5,https://github.com/kerighan/convectors
+halic-exam-genius,Python,2,2024-08-27T10:55:32,2024-11-03T14:50:23,14,https://github.com/eftekin/halic-exam-genius
+ReciPys,Python,2,2024-10-15T08:59:09,2024-10-16T16:10:07,14,https://github.com/rvandewater/ReciPys
+pandas-for-data-analysis,Jupyter Notebook,0,2024-12-08T07:49:18,2024-12-08T07:49:18,1,https://github.com/AYSE-DUMAN/pandas-for-data-analysis
+pandas-bootstrap,Python,0,2024-10-28T21:21:40,2024-12-10T07:48:56,14,https://github.com/wd60622/pandas-bootstrap
+Pandas,JavaScript,0,2024-11-13T20:21:44,2024-11-13T20:40:32,2,https://github.com/MeoMunDep/Pandas
+PANDAS,Jupyter Notebook,0,2024-11-16T05:30:29,2024-11-18T04:16:25,6,https://github.com/visxnu/PANDAS
+ml_workshop,Jupyter Notebook,2,2024-09-01T09:11:32,2024-09-01T09:21:56,6,https://github.com/sandhavi/ml_workshop
+utipy,Python,0,2024-12-05T22:38:40,2024-12-06T21:36:45,5,https://github.com/LudvigOlsen/utipy
+opcua-tools,Python,1,2024-08-12T09:24:07,2024-11-29T12:03:28,11,https://github.com/PrediktorAS/opcua-tools
+MagmaPandas,Python,0,2024-08-20T08:05:33,2024-11-26T14:58:00,12,https://github.com/TDGerve/MagmaPandas
+swmm-pandas,Python,0,2024-09-30T04:00:53,2024-10-30T01:09:03,43,https://github.com/karosc/swmm-pandas
+pandasaurus_cxg,Jupyter Notebook,1,2024-08-23T12:30:20,2024-12-10T13:49:49,9,https://github.com/INCATools/pandasaurus_cxg
+bybit_trades-klines_to_redis,Python,4,2024-09-06T11:20:29,2024-09-23T10:38:35,3,https://github.com/ryu878/bybit_trades-klines_to_redis
+pandas-work,Jupyter Notebook,0,2024-08-23T16:30:19,2024-10-01T14:42:38,3,https://github.com/sameer-javed/pandas-work
+2024-1-EducaMinas-backend,Jupyter Notebook,4,2024-08-24T17:28:27,2024-09-04T18:10:38,90,https://github.com/unb-mds/2024-1-EducaMinas-backend
+pandas_examples,Python,1,2024-09-29T10:49:47,2024-11-30T18:17:41,10,https://github.com/albertgreinoecker/pandas_examples
+talk-zoology-101,Jupyter Notebook,1,2024-10-15T19:31:10,2024-11-15T17:40:49,3,https://github.com/jardabezdek/talk-zoology-101
+Predictive_Modeling_Hong_Kong_Horse_Racing,HTML,5,2024-09-05T13:28:36,2024-09-30T11:46:56,2,https://github.com/karenwky/Predictive_Modeling_Hong_Kong_Horse_Racing
+car_task_pandas,Python,0,2024-10-02T23:25:38,2024-10-09T22:54:21,7,https://github.com/GeorgiLukanov87/car_task_pandas
+h5pandas,Python,0,2024-10-13T15:04:15,2024-10-26T15:52:09,25,https://github.com/Zybulon/h5pandas
+vcf2pandas,Python,0,2024-10-09T04:38:43,2024-12-08T14:46:51,9,https://github.com/trentzz/vcf2pandas
+telemetry-obd-log-to-csv,Python,0,2024-09-27T19:18:26,2024-09-27T19:18:26,1,https://github.com/thatlarrypearson/telemetry-obd-log-to-csv
+Data-pre-processing-using-pandas,Jupyter Notebook,0,2024-10-01T10:47:48,2024-10-01T10:47:48,1,https://github.com/RAMANA-8/Data-pre-processing-using-pandas
+flatbread,Python,1,2024-10-10T14:50:27,2024-12-11T07:44:18,13,https://github.com/lcvriend/flatbread
+pybabynames,Python,1,2024-09-14T22:36:25,2024-09-15T22:56:30,41,https://github.com/coatless-py-pkg/pybabynames
+psite_annotation,Python,0,2024-08-19T11:38:04,2024-12-02T17:33:43,23,https://github.com/kusterlab/psite_annotation
+panda-py-remote,Python,0,2024-09-25T01:26:28,2024-09-25T01:32:20,2,https://github.com/jc211/panda-py-remote
+DataView,Python,0,2024-11-28T20:13:06,2024-11-28T20:56:36,12,https://github.com/kousarraza/DataView
+astro-sarkara,Astro,0,2024-09-05T08:34:13,2024-12-11T11:30:33,63,https://github.com/cieloazul310/astro-sarkara
+Weather-anaylasis-with-pandas-and-paython-with-big-data-set-,Jupyter Notebook,0,2024-10-07T15:29:53,2024-10-07T15:29:53,1,https://github.com/moyen-ahmed/Weather-anaylasis-with-pandas-and-paython-with-big-data-set-
+StratLab,Python,1,2024-10-26T12:46:49,2024-12-11T23:54:40,58,https://github.com/rstickles16/StratLab
+River-Charts,Python,0,2024-08-27T21:49:25,2024-10-16T21:44:22,4,https://github.com/scottgriv/River-Charts
+IR_Holidays_Scraper,Python,1,2024-12-02T11:48:09,2024-12-13T15:36:57,16,https://github.com/DehghanianSina/IR_Holidays_Scraper
+data-management-python,Python,2,2024-11-01T09:44:11,2024-12-06T13:27:23,3,https://github.com/imperial-genomics-facility/data-management-python
+snotel_ccss_stations,Jupyter Notebook,0,2024-08-19T00:40:16,2024-12-15T01:03:47,118,https://github.com/egagli/snotel_ccss_stations
+dataframe,TypeScript,0,2024-09-18T14:28:10,2024-09-18T14:34:51,3,https://github.com/youwol/dataframe
+Data-Analytics,Jupyter Notebook,0,2024-08-19T16:05:12,2024-10-28T10:06:45,26,https://github.com/amaan-igs/Data-Analytics
+Diabetes-Health-Indicators-Classfication,Jupyter Notebook,6,2024-10-02T19:40:28,2024-10-02T19:47:37,11,https://github.com/Mashael2030/Diabetes-Health-Indicators-Classfication
+PYTHON_LIBRARIES_FOR_MACHINE_LEARNING,Jupyter Notebook,0,2024-08-19T05:52:30,2024-10-01T09:10:51,8,https://github.com/Ehtijad-Ali/PYTHON_LIBRARIES_FOR_MACHINE_LEARNING
+jim-emacs-fun-py,Python,0,2024-08-20T06:26:48,2024-12-11T01:33:02,26,https://github.com/xlisp/jim-emacs-fun-py
+analyze-oura,Python,1,2024-08-19T17:57:15,2024-12-15T10:42:58,6,https://github.com/entorb/analyze-oura
+Numerical_Integration,Python,1,2024-11-12T04:57:21,2024-11-12T04:57:21,1,https://github.com/m-essam-s/Numerical_Integration
+ml-fabpro,Python,2,2024-10-05T16:54:10,2024-12-06T09:53:17,31,https://github.com/ivanoskov/ml-fabpro
+Global-EV-Analysis,,0,2024-12-01T13:01:35,2024-12-01T14:34:54,19,https://github.com/Abhilove-Goyal/Global-EV-Analysis
+Cardiovascular-Risk-Prediction-Web-APP,,0,2024-08-21T12:49:26,2024-08-21T12:49:26,1,https://github.com/hrithikksingh3/Cardiovascular-Risk-Prediction-Web-APP
+job_updates_bot,Python,0,2024-08-19T15:33:45,2024-12-15T15:35:02,115,https://github.com/AbyvargheseMandapathel/job_updates_bot
+House-Price-Predictor,Cython,3,2024-10-15T16:53:26,2024-11-05T16:53:10,28,https://github.com/rjlovespy/House-Price-Predictor
+alex-sokolov2011,,0,2024-09-04T11:08:40,2024-10-29T20:06:24,6,https://github.com/alex-sokolov2011/alex-sokolov2011
+pfn,HTML,0,2024-08-20T05:38:06,2024-12-11T05:58:14,36,https://github.com/kburchfiel/pfn
+options-strat-payoff,Python,2,2024-11-15T21:21:37,2024-11-15T21:21:37,1,https://github.com/saimanish-p/options-strat-payoff
+Machine-Learning-and-Data-Science-Bootcamp,Jupyter Notebook,0,2024-12-06T01:22:01,2024-12-10T01:20:45,6,https://github.com/AryanK1511/Machine-Learning-and-Data-Science-Bootcamp
+investorzilla,Python,1,2024-09-09T21:51:36,2024-11-20T11:34:40,15,https://github.com/avibrazil/investorzilla
+Illuminating-Insights-for-Global-Electronics,Jupyter Notebook,0,2024-09-20T19:23:43,2024-11-08T12:35:06,22,https://github.com/Avijit-Jana/Illuminating-Insights-for-Global-Electronics
+dengue,Python,0,2024-11-21T21:32:19,2024-11-21T21:34:13,2,https://github.com/lapanquecita/dengue
+fmp-py,Python,0,2024-08-20T01:27:17,2024-09-01T00:10:24,7,https://github.com/TexasCoding/fmp-py
+Datasets,Python,0,2024-08-19T03:47:21,2024-12-15T01:56:51,287,https://github.com/mohansaidinesh/Datasets
+spotify-lab,Python,0,2024-12-07T14:52:47,2024-12-08T22:05:47,7,https://github.com/joewood/spotify-lab
+python-tutorial,Python,1,2024-10-02T07:02:00,2024-11-21T12:26:50,14,https://github.com/pranabdas/python-tutorial
+machine-learning-projects,Python,1,2024-12-03T01:09:06,2024-12-07T03:44:04,23,https://github.com/mayara-canaver/machine-learning-projects
+drosophila-social-network-analysis,Jupyter Notebook,1,2024-09-18T12:38:29,2024-09-18T12:48:16,3,https://github.com/milanXpetrovic/drosophila-social-network-analysis
+Custom-CPI-Analysis-Research,Jupyter Notebook,0,2024-08-30T13:31:30,2024-11-25T16:52:44,27,https://github.com/RoryQo/Custom-CPI-Analysis-Research
+dapla-toolbelt,Python,0,2024-08-19T06:43:37,2024-12-06T09:42:44,47,https://github.com/statisticsnorway/dapla-toolbelt
+-Preprocessing-and-data-visualization-of-the-titanic-dataset,Jupyter Notebook,0,2024-12-08T08:01:37,2024-12-08T08:01:37,1,https://github.com/AYSE-DUMAN/-Preprocessing-and-data-visualization-of-the-titanic-dataset
+ML-Material,Jupyter Notebook,0,2024-10-11T18:54:37,2024-10-11T19:31:59,2,https://github.com/RISHIT7/ML-Material
+dataframes-haystack,Jupyter Notebook,0,2024-08-20T19:55:36,2024-12-09T22:10:16,12,https://github.com/EdAbati/dataframes-haystack
+Python,Python,0,2024-09-03T16:09:57,2024-09-25T19:11:04,9,https://github.com/HenriqueCanhadas/Python
+scikit-na,Python,1,2024-09-28T11:39:53,2024-11-02T18:11:36,3,https://github.com/maximtrp/scikit-na
+ImitationLearning_Franka,C++,0,2024-10-10T17:36:56,2024-10-10T18:35:02,13,https://github.com/UthiraS/ImitationLearning_Franka
+body-measurement-to-smpl-beta,JavaScript,0,2024-09-23T19:27:32,2024-12-03T17:40:39,14,https://github.com/THARUNESHWAR-369/body-measurement-to-smpl-beta
+telecom-customer-churn-prediction,HTML,2,2024-08-27T19:28:30,2024-10-30T04:56:35,17,https://github.com/virajbhutada/telecom-customer-churn-prediction
+Prometheus,Python,0,2024-09-16T23:30:28,2024-09-17T00:50:05,6,https://github.com/kyegomez/Prometheus
+course-recommender,Jupyter Notebook,1,2024-12-11T04:27:49,2024-12-11T04:39:45,2,https://github.com/Saket046/course-recommender
+yndx-python-handbook,Python,0,2024-08-19T06:35:34,2024-12-12T11:08:56,512,https://github.com/andreypomortsev/yndx-python-handbook
+Web-Based-IPL-Team-Prediction,HTML,1,2024-08-22T17:24:47,2024-09-06T18:49:53,5,https://github.com/jayeshbhandarkar/Web-Based-IPL-Team-Prediction
+Olympic-Games-Data-Analysis,Jupyter Notebook,0,2024-11-26T05:09:42,2024-12-05T07:08:31,9,https://github.com/MMuttalib1326/Olympic-Games-Data-Analysis
+F1_Qualifying_Predictor_ML,Python,0,2024-08-19T19:07:10,2024-11-30T01:45:07,120,https://github.com/tmalik1116/F1_Qualifying_Predictor_ML
+Global-Statistics-Dashboard,Jupyter Notebook,0,2024-09-04T14:53:01,2024-09-04T14:53:01,1,https://github.com/UznetDev/Global-Statistics-Dashboard
+idps-escape,Python,0,2024-08-30T07:29:19,2024-09-07T14:39:01,4,https://github.com/AbstractionsLab/idps-escape
+Global-Internet-users,Python,0,2024-08-31T17:25:51,2024-08-31T17:25:51,1,https://github.com/UznetDev/Global-Internet-users
+-Face-recognition-based-attendance_system,Python,0,2024-09-20T06:25:24,2024-09-20T06:25:24,1,https://github.com/bvb-06/-Face-recognition-based-attendance_system
+AI-Development,Jupyter Notebook,1,2024-08-22T18:51:55,2024-08-24T18:10:05,8,https://github.com/ThisIs-Developer/AI-Development
+kaggle-notebooks,Jupyter Notebook,0,2024-10-15T14:55:02,2024-12-09T20:51:12,9,https://github.com/mateuszk098/kaggle-notebooks
+pilot3,Python,14,2024-08-20T11:02:28,2024-12-11T13:42:14,186,https://github.com/PanDAWMS/pilot3
+libosi,C++,5,2024-10-11T17:53:11,2024-12-09T22:43:17,3,https://github.com/panda-re/libosi
+pandas4,Java,2,2024-08-19T02:15:15,2024-12-06T05:57:16,29,https://github.com/nla/pandas4
+pynut,Python,2,2024-11-08T07:31:14,2024-11-14T15:58:20,4,https://github.com/AugustUnderground/pynut
+python-oesdk,Python,3,2024-10-01T11:26:46,2024-10-01T11:26:46,1,https://github.com/openenergi/python-oesdk
+blueberry_winerys_project,Jupyter Notebook,0,2024-11-29T14:30:31,2024-11-29T14:30:31,1,https://github.com/sfdatade/blueberry_winerys_project
+pandas-amazon-sales-data-analysis,Jupyter Notebook,2,2024-09-05T14:32:00,2024-09-07T16:38:55,6,https://github.com/im-nsk/pandas-amazon-sales-data-analysis
+pyspark-pandas-vs-pandas,Jupyter Notebook,0,2024-08-29T18:03:17,2024-11-25T21:56:53,5,https://github.com/slevine/pyspark-pandas-vs-pandas
+pandas-checks,Python,1,2024-11-11T17:49:46,2024-11-17T20:56:47,23,https://github.com/cparmet/pandas-checks
+panda_planner,MATLAB,2,2024-08-19T21:09:11,2024-12-09T19:27:25,10,https://github.com/williamsnider/panda_planner
+Pandas,Jupyter Notebook,0,2024-08-30T04:45:04,2024-08-30T04:45:04,1,https://github.com/maushamkumar/Pandas
+pandas,Python,0,2024-09-28T14:24:11,2024-10-09T10:24:42,10,https://github.com/iremozdemr/pandas
+bertrand,C++,0,2024-08-19T06:31:32,2024-12-15T18:26:47,228,https://github.com/eerkela/bertrand
+Chat-Pandas,Python,0,2024-12-08T17:14:30,2024-12-15T15:59:43,4,https://github.com/xuanfengzu/Chat-Pandas
+read_dataframe,Python,0,2024-10-11T08:33:11,2024-10-13T10:04:10,10,https://github.com/RenZhen95/read_dataframe
+pandastic,Python,1,2024-08-26T08:34:02,2024-08-26T19:34:23,9,https://github.com/MoAly98/pandastic
+pydata-examples,Jupyter Notebook,0,2024-11-13T14:00:40,2024-11-13T14:56:32,2,https://github.com/MrPowers/pydata-examples
+Neural-Network-Scratch,Jupyter Notebook,0,2024-09-03T17:38:11,2024-09-14T04:02:10,2,https://github.com/KhatiwadaPrajwal056/Neural-Network-Scratch
+sqlypandas,Jupyter Notebook,0,2024-11-17T22:42:36,2024-11-18T14:13:14,8,https://github.com/Essogbe/sqlypandas
+data-analytics-image,Dockerfile,0,2024-09-10T15:24:46,2024-09-10T15:24:46,1,https://github.com/nicolasgallandpro/data-analytics-image
+stttrkx,Jupyter Notebook,2,2024-08-19T14:54:05,2024-08-27T10:10:58,11,https://github.com/ai4fair/stttrkx
+market-basket-analysis,Jupyter Notebook,1,2024-09-05T18:17:23,2024-09-05T18:43:09,2,https://github.com/nssharmaofficial/market-basket-analysis
+pandas_exercises,Jupyter Notebook,0,2024-11-20T13:49:55,2024-11-20T13:49:55,1,https://github.com/deeptesh-rout/pandas_exercises
+Pandas_Basic,Jupyter Notebook,0,2024-10-04T05:04:12,2024-10-26T08:57:23,23,https://github.com/BeniSamuel/Pandas_Basic
+PANDAS-TUTORIAL,Jupyter Notebook,0,2024-11-20T13:44:55,2024-11-20T13:44:55,1,https://github.com/deeptesh-rout/PANDAS-TUTORIAL
+socket-pandas,HTML,0,2024-11-12T12:13:28,2024-11-12T12:13:28,1,https://github.com/hamer1818/socket-pandas
+nx-pandas,Python,1,2024-08-21T18:34:26,2024-08-21T18:34:26,1,https://github.com/networkx/nx-pandas
+energy-pandas,Python,0,2024-09-18T18:54:14,2024-10-03T13:05:21,12,https://github.com/samuelduchesne/energy-pandas
+Gaming_of_a_lifetime,Jupyter Notebook,0,2024-11-27T13:35:03,2024-12-04T16:34:42,6,https://github.com/Binardino/Gaming_of_a_lifetime
+Explorartory_Data_Analysis,Jupyter Notebook,0,2024-09-25T16:19:04,2024-09-25T16:21:42,2,https://github.com/umair7228/Explorartory_Data_Analysis
+bpy-pandas-mesh,Python,1,2024-11-08T10:17:07,2024-11-08T10:21:10,3,https://github.com/kolibril13/bpy-pandas-mesh
+introduction_to_pandas,Jupyter Notebook,0,2024-11-13T08:10:55,2024-11-14T06:16:50,4,https://github.com/hosaka893/introduction_to_pandas
+Data_Science,Jupyter Notebook,0,2024-10-14T12:32:47,2024-10-14T12:32:47,1,https://github.com/GokceSoylu/Data_Science
+DataFrameCpp,C++,1,2024-10-16T13:39:30,2024-10-18T15:07:37,3,https://github.com/kilasuelika/DataFrameCpp
+chess_puzzles_api,HTML,0,2024-09-05T06:10:29,2024-09-05T06:10:29,1,https://github.com/Ali-Raza764/chess_puzzles_api
+lastChanceHackertoberfest,Jupyter Notebook,5,2024-10-28T08:33:52,2024-11-01T08:54:19,40,https://github.com/bratergit/lastChanceHackertoberfest
+Pandas-Data-Science-Tasks,Jupyter Notebook,0,2024-11-20T13:32:47,2024-11-20T13:32:47,1,https://github.com/deeptesh-rout/Pandas-Data-Science-Tasks
+fast_csv_loader,Python,0,2024-09-02T14:22:52,2024-11-04T06:16:04,19,https://github.com/BennyThadikaran/fast_csv_loader
+ipytablewidgets,Python,0,2024-09-26T14:47:18,2024-12-12T13:32:44,5,https://github.com/progressivis/ipytablewidgets
+OGRaySpY,Jupyter Notebook,0,2024-08-24T21:27:27,2024-09-23T22:10:47,3,https://github.com/terrabela/OGRaySpY
+h5dataframe,Python,0,2024-08-28T07:46:39,2024-09-02T15:07:08,3,https://github.com/Vidium/h5dataframe
+pandacss-react-aria-components,TypeScript,2,2024-10-19T13:54:02,2024-10-19T14:01:15,3,https://github.com/kianomg/pandacss-react-aria-components
+panda,PHP,0,2024-12-05T09:50:41,2024-12-05T09:52:25,2,https://github.com/PandaPlatform/panda
+rescript-panda,ReScript,0,2024-10-21T19:56:52,2024-11-10T23:25:35,141,https://github.com/vmarcosp/rescript-panda
+sklearn-utilities,Python,1,2024-10-30T00:37:11,2024-11-15T00:26:30,22,https://github.com/34j/sklearn-utilities
+ECE2112-Experiment3,Python,0,2024-09-05T07:39:00,2024-09-20T11:49:12,18,https://github.com/draemonsi/ECE2112-Experiment3
+Python_automacao,Python,0,2024-08-27T23:06:11,2024-08-27T23:06:11,1,https://github.com/AndersonJunior16/Python_automacao
+cfbd-json-py,Python,0,2024-08-29T03:06:47,2024-09-16T22:53:47,10,https://github.com/armstjc/cfbd-json-py
+equipe1-2024.2,Jupyter Notebook,4,2024-08-22T01:49:28,2024-08-23T15:51:17,5,https://github.com/atlantico-academy/equipe1-2024.2
+arc-sampling-and-scoring,Python,3,2024-09-19T04:40:10,2024-11-25T05:49:10,7,https://github.com/d-wasserman/arc-sampling-and-scoring
+Data-Analysis_Projects,Jupyter Notebook,0,2024-10-19T16:02:54,2024-10-22T17:10:30,6,https://github.com/suneelshivanioffical/Data-Analysis_Projects
+Python4Statistics,Jupyter Notebook,2,2024-09-08T20:56:21,2024-12-04T16:19:23,14,https://github.com/rjwrobel86/Python4Statistics
+blog-template,TypeScript,0,2024-08-29T16:04:37,2024-08-29T18:01:03,5,https://github.com/smontlouis/blog-template
+Marathon-Weather-Analysis-and-Performance-Prediction,Python,0,2024-10-11T20:54:56,2024-10-11T20:54:56,1,https://github.com/jbbjr/Marathon-Weather-Analysis-and-Performance-Prediction
+vlib,C++,0,2024-08-31T09:19:56,2024-10-10T16:00:40,4,https://github.com/vandenberghinc/vlib
+kinu,TypeScript,0,2024-09-13T16:07:04,2024-12-07T14:23:39,2,https://github.com/simxnet/kinu
+beautifulexcel,Python,0,2024-09-07T17:51:06,2024-10-14T19:59:22,116,https://github.com/vanalmsick/beautifulexcel
+Proyecto-Final-BC-Python-Avanzado-g2,Python,0,2024-10-25T00:54:11,2024-11-26T04:31:10,74,https://github.com/PaylemanC/Proyecto-Final-BC-Python-Avanzado-g2
+trademetriks,Python,0,2024-09-03T14:39:10,2024-12-13T12:09:55,63,https://github.com/naveenkonam1985/trademetriks
+tidyplots-python,Python,0,2024-11-27T07:22:03,2024-12-02T02:11:38,19,https://github.com/JNU-Tangyin/tidyplots-python
+Leetcode-Solutions,Python,0,2024-10-31T03:53:50,2024-12-12T05:39:21,76,https://github.com/Adithi-27/Leetcode-Solutions
+crep,Python,2,2024-10-23T11:57:16,2024-11-27T09:07:58,34,https://github.com/eurobios-mews-labs/crep
+Cryptocurrency-Market-Analysis,Python,0,2024-11-16T11:04:10,2024-11-16T11:10:09,4,https://github.com/sarthidarji128/Cryptocurrency-Market-Analysis
+Heart-Disease-Data-Lab,Jupyter Notebook,0,2024-08-31T03:33:52,2024-10-29T00:07:41,21,https://github.com/RoryQo/Heart-Disease-Data-Lab
+My_First_APP_Streamlit,Python,0,2024-11-30T11:58:00,2024-11-30T11:58:00,1,https://github.com/mejdihaddad/My_First_APP_Streamlit
+data-manipulation,Python,1,2024-09-02T13:39:52,2024-12-02T02:43:01,19,https://github.com/shawnngtq/data-manipulation
+PythonForMatlabProgrammers,,0,2024-08-22T20:38:28,2024-10-28T19:01:59,3,https://github.com/PythonForMatlabProgrammers/PythonForMatlabProgrammers
+data-profile-generation,HTML,0,2024-10-18T10:49:21,2024-10-18T10:49:21,1,https://github.com/soopertramp/data-profile-generation
+Phylogenetic-tree-study,Jupyter Notebook,5,2024-10-07T12:01:39,2024-11-18T13:05:34,9,https://github.com/Shuyib/Phylogenetic-tree-study
+EDUNEXUS-2.0,Python,3,2024-11-17T16:16:50,2024-12-13T15:29:11,39,https://github.com/muhammadibrahim313/EDUNEXUS-2.0
+Python-Programming-for-Data-Science,Python,0,2024-10-17T19:34:38,2024-11-04T11:51:18,32,https://github.com/mhmtx4/Python-Programming-for-Data-Science
+ECE2112-Experiment4,Jupyter Notebook,0,2024-09-05T07:45:50,2024-09-19T16:02:13,13,https://github.com/draemonsi/ECE2112-Experiment4
+CryptoCurrrency-Subreddit-ETL,Python,0,2024-11-02T16:10:05,2024-11-02T16:10:36,2,https://github.com/moheebprojects/CryptoCurrrency-Subreddit-ETL
+NLP-sentiment-analysis-with-emojis,Jupyter Notebook,0,2024-10-09T14:44:13,2024-11-28T09:16:43,2,https://github.com/jparedesDS/NLP-sentiment-analysis-with-emojis
+ProjetNSI-DATA,Python,0,2024-10-24T14:42:03,2024-11-02T16:48:09,2,https://github.com/jln83/ProjetNSI-DATA
+Open_Pub_App_Streamlit,Python,1,2024-11-30T11:54:06,2024-11-30T11:54:06,1,https://github.com/mejdihaddad/Open_Pub_App_Streamlit
+gt-fastapi,Python,0,2024-09-10T13:02:01,2024-10-03T13:57:51,6,https://github.com/jrycw/gt-fastapi
+Python-Librearies-for-Data-Science,Jupyter Notebook,0,2024-09-07T06:41:14,2024-10-17T16:18:17,23,https://github.com/udityamerit/Python-Librearies-for-Data-Science
+Prospect_scraper,Python,0,2024-10-14T19:12:52,2024-12-15T17:19:34,67,https://github.com/lennonay/Prospect_scraper
+8th-National-AI-Training-Competition,Jupyter Notebook,2,2024-08-19T12:08:59,2024-09-18T22:36:13,14,https://github.com/ZongXR/8th-National-AI-Training-Competition
+Sentiment-Analysis-using-BERT-Embeddings,Jupyter Notebook,0,2024-08-30T15:13:04,2024-10-08T14:19:31,11,https://github.com/iambitttu/Sentiment-Analysis-using-BERT-Embeddings
+PythonNet,HTML,1,2024-10-19T11:41:41,2024-10-30T20:54:03,23,https://github.com/iceHub82/PythonNet
+lapanquecita,Python,0,2024-08-19T01:14:41,2024-12-15T01:42:36,122,https://github.com/lapanquecita/lapanquecita
+Pakistani_Universities_Analysis,Python,0,2024-08-25T10:18:32,2024-08-26T07:44:21,12,https://github.com/Hanan-Nawaz/Pakistani_Universities_Analysis
+ParticleSwarmOptimization,Python,1,2024-08-25T01:01:25,2024-09-28T00:15:30,75,https://github.com/Unbo10/ParticleSwarmOptimization
+excel-to-markdown,Python,1,2024-09-13T02:57:01,2024-10-16T01:18:23,40,https://github.com/devin-liu/excel-to-markdown
+monitoring-report,Python,0,2024-09-16T08:57:19,2024-12-03T11:04:21,25,https://github.com/jparedesDS/monitoring-report
+PDF-timetable-personaliser,Python,1,2024-09-10T09:23:46,2024-09-10T09:24:30,2,https://github.com/Briankim254/PDF-timetable-personaliser
+xlslim-docs,HTML,0,2024-10-17T16:43:06,2024-10-24T16:13:51,3,https://github.com/RusselWebber/xlslim-docs
+EDA-Sugarcane,Jupyter Notebook,0,2024-09-23T17:46:48,2024-09-23T17:57:01,3,https://github.com/11SShukla/EDA-Sugarcane
+playing-with-data,Python,0,2024-08-19T04:39:02,2024-08-19T10:10:05,2,https://github.com/arunangshu01/playing-with-data
+NBA-3Point-Shooting-Analysis,Jupyter Notebook,0,2024-08-28T01:27:50,2024-09-29T23:20:36,17,https://github.com/RafaelJMinaya/NBA-3Point-Shooting-Analysis
+WorkforceAnalyst,Jupyter Notebook,1,2024-09-27T23:59:37,2024-10-10T20:24:36,6,https://github.com/jackyhuynh/WorkforceAnalyst
+Movies-Data-Analysis,Jupyter Notebook,0,2024-10-10T12:41:26,2024-11-11T13:07:40,6,https://github.com/Pooria82/Movies-Data-Analysis
+Autism-Spectrum-Disorder-Detection-and-Analysis,Jupyter Notebook,0,2024-10-12T04:34:03,2024-12-09T11:37:42,21,https://github.com/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis
+hipDF,C++,0,2024-12-13T22:28:38,2024-12-13T22:28:38,1,https://github.com/ROCm/hipDF
+computerphile-pong,Python,3,2024-11-10T09:32:02,2024-11-10T09:32:02,1,https://github.com/edoardottt/computerphile-pong
+Accident-Detection-and-Signal-Regulation-System-using-deep-learning,Python,0,2024-08-25T13:34:57,2024-08-25T13:50:14,3,https://github.com/NIRMAL1508/Accident-Detection-and-Signal-Regulation-System-using-deep-learning
+Data-Science-Portfolio,Jupyter Notebook,0,2024-09-30T01:35:21,2024-09-30T01:38:58,2,https://github.com/a-donat/Data-Science-Portfolio
+py-gcloud-connectors,Python,0,2024-08-27T13:25:19,2024-10-25T09:07:16,7,https://github.com/pualien/py-gcloud-connectors
+deeplearning_data_engineering,HCL,0,2024-09-24T22:33:24,2024-10-01T23:14:21,9,https://github.com/ConnorBritain/deeplearning_data_engineering
+ParticleRigidityCalculationTools,Python,1,2024-08-30T12:52:36,2024-09-02T13:47:02,4,https://github.com/ssc-maire/ParticleRigidityCalculationTools
+Risk_Return_Analysis,Jupyter Notebook,0,2024-10-04T00:41:36,2024-10-04T01:10:14,3,https://github.com/paocarvajal1912/Risk_Return_Analysis
+python-modeling-power-consumption,,1,,,0,https://github.com/carpentries-incubator/python-modeling-power-consumption
+my-data-toolkit,Python,0,,,0,https://github.com/Zeroto521/my-data-toolkit
+python,Jupyter Notebook,0,2024-08-21T17:15:33,2024-08-21T17:15:33,1,https://github.com/arkeodev/python
+collect,Python,1,2024-10-04T16:55:32,2024-11-27T18:40:37,4,https://github.com/MBKEngineers/collect
+Data-Visualization,Jupyter Notebook,0,2024-09-02T19:01:42,2024-09-02T19:01:42,1,https://github.com/jayeshbhandarkar/Data-Visualization
+cdsodatacli,Python,0,2024-09-04T00:57:57,2024-12-11T11:04:49,19,https://github.com/umr-lops/cdsodatacli
+data-transport,Python,0,2024-09-06T15:59:51,2024-09-19T16:16:11,6,https://github.com/lnyemba/data-transport
+bavarian-forest-visitor-monitoring-dssgx-24,Jupyter Notebook,1,2024-08-19T07:16:18,2024-10-24T13:27:26,697,https://github.com/DSSGxMunich/bavarian-forest-visitor-monitoring-dssgx-24
+kuxall,,0,2024-11-15T16:12:00,2024-11-15T16:12:00,1,https://github.com/kuxall/kuxall
+30-Days-Of-DataScience,,0,2024-11-20T05:48:47,2024-12-15T05:40:32,91,https://github.com/SamarthGarge/30-Days-Of-DataScience
+COVID-19-Xray-DL-Classification-transfer-learning-,Jupyter Notebook,0,2024-09-28T05:22:16,2024-09-28T06:15:42,3,https://github.com/Rafat3000/COVID-19-Xray-DL-Classification-transfer-learning-
+PythonProgramming,Python,0,2024-08-19T17:21:01,2024-11-24T05:19:30,32,https://github.com/Rahullkumr/PythonProgramming
+sipd,Python,0,2024-10-31T14:19:28,2024-12-14T16:15:18,94,https://github.com/odhyp/sipd
+DSML-Internship-DevTown-Notebooks-,Jupyter Notebook,0,2024-09-18T05:24:52,2024-09-18T06:04:10,4,https://github.com/VartikaRaj2512/DSML-Internship-DevTown-Notebooks-
+Text-to-Image-Generator-using-Stable-Diffusion-Model,Jupyter Notebook,0,2024-08-22T17:26:02,2024-09-06T18:51:34,9,https://github.com/jayeshbhandarkar/Text-to-Image-Generator-using-Stable-Diffusion-Model
+Iris-Dataset-Prediction-using-Unsupervised-ML,Jupyter Notebook,0,2024-09-02T19:04:15,2024-09-02T19:04:15,1,https://github.com/jayeshbhandarkar/Iris-Dataset-Prediction-using-Unsupervised-ML
+Cinnamon-GUI,Python,0,2024-09-09T03:48:24,2024-12-02T20:32:48,12,https://github.com/lunanfoldomics/Cinnamon-GUI
+TechGallery,Jupyter Notebook,0,2024-09-17T08:46:27,2024-09-17T08:49:30,2,https://github.com/Rizi2001/TechGallery
+cached-historical-data-fetcher,Python,1,2024-10-30T02:20:09,2024-11-15T15:34:54,26,https://github.com/34j/cached-historical-data-fetcher
+NeuroForge,Python,0,2024-11-10T08:11:43,2024-11-18T10:19:56,38,https://github.com/RAHAMNIabdelkaderseifelislem/NeuroForge
+NYC-TLC-Trip-Data,Jupyter Notebook,1,2024-08-19T07:10:52,2024-08-22T10:11:25,4,https://github.com/lykmapipo/NYC-TLC-Trip-Data
+TopWine,JavaScript,1,2024-11-30T22:52:28,2024-11-30T22:52:28,1,https://github.com/theodoremoreland/TopWine
+lorrystream,Python,0,2024-08-19T00:35:00,2024-09-02T10:22:39,9,https://github.com/daq-tools/lorrystream
+bepp,Python,0,2024-11-15T18:13:20,2024-11-21T17:28:06,37,https://github.com/xplosionmind/bepp
+skillup_codesignal,Python,0,2024-08-20T00:31:48,2024-12-12T04:59:15,189,https://github.com/PaladinKnightMaster/skillup_codesignal
+wrangling,Jupyter Notebook,266,2024-08-27T03:01:16,2024-08-27T03:08:27,3,https://github.com/DS3001/wrangling
+on35-python-s12-pandas-numpy-II,Jupyter Notebook,31,2024-08-19T23:32:44,2024-08-19T23:58:45,2,https://github.com/reprograma/on35-python-s12-pandas-numpy-II
+panda-common,Python,6,2024-10-16T12:16:51,2024-11-26T09:52:44,20,https://github.com/PanDAWMS/panda-common
+PandABlocks-ioc,Python,5,2024-09-24T13:02:11,2024-11-18T16:42:32,33,https://github.com/PandABlocks/PandABlocks-ioc
+rai-robotModels,GAP,11,2024-09-05T12:08:18,2024-12-09T17:25:58,9,https://github.com/MarcToussaint/rai-robotModels
+redpandas,Python,2,2024-08-23T01:18:10,2024-11-09T01:18:27,16,https://github.com/ISLA-UH/redpandas
+workshop-introduction-to-python,Jupyter Notebook,2,2024-11-13T09:48:06,2024-11-13T09:49:29,2,https://github.com/UtrechtUniversity/workshop-introduction-to-python
+LuminosityFit,C++,4,2024-11-13T12:55:19,2024-11-25T14:26:09,4,https://github.com/panda-luminosity-detector-group/LuminosityFit
+pandas_doc,Jupyter Notebook,0,2024-11-15T13:21:06,2024-11-18T20:47:25,15,https://github.com/ClemouDouard/pandas_doc
+raku-Dan-Pandas,Raku,0,2024-11-11T11:25:12,2024-11-11T12:13:54,4,https://github.com/librasteve/raku-Dan-Pandas
+PandasLearningPath,Jupyter Notebook,0,2024-09-29T03:14:07,2024-09-30T22:39:30,20,https://github.com/dr-saad-la/PandasLearningPath
+Pandas,Jupyter Notebook,0,2024-08-28T13:31:14,2024-08-28T13:35:34,2,https://github.com/mandeepkaur19/Pandas
+Pandas,Jupyter Notebook,0,2024-09-02T14:56:19,2024-09-02T14:56:19,1,https://github.com/BRENDAEVELLYN/Pandas
+Pandas,Jupyter Notebook,0,2024-08-25T10:50:38,2024-09-06T17:30:15,4,https://github.com/NagaRaghuram/Pandas
+pandas,Python,0,2024-10-06T08:37:50,2024-10-06T08:37:50,1,https://github.com/SAURABH11072004/pandas
+PANDA-KILLER,Lua,0,2024-09-12T16:39:55,2024-12-11T08:46:57,68,https://github.com/VIPigeon/PANDA-KILLER
+projeto-scraping-celulares-mercadolivre,Python,0,2024-11-26T16:29:02,2024-11-27T00:32:37,8,https://github.com/mariaeducorrea/projeto-scraping-celulares-mercadolivre
+ruisapp,C++,2,2024-08-19T10:38:29,2024-11-17T13:28:08,30,https://github.com/cppfw/ruisapp
+Autoregressive-Models-Prediction-for-Gasoline-Price,Jupyter Notebook,0,2024-09-10T14:22:36,2024-09-10T14:22:36,1,https://github.com/MKPasha/Autoregressive-Models-Prediction-for-Gasoline-Price
+PandasPlotBench,Python,1,2024-11-27T14:53:25,2024-12-09T14:22:34,10,https://github.com/JetBrains-Research/PandasPlotBench
+pyds,Python,0,2024-08-20T16:43:03,2024-11-12T01:26:43,7,https://github.com/jrc03c/pyds
+BinanceTrader,Python,2,2024-09-12T19:20:54,2024-09-12T20:30:10,11,https://github.com/AlrzA2003/BinanceTrader
+Data-Handling-With-NumPy-Pandas,Python,0,2024-08-29T08:57:15,2024-09-15T15:09:28,29,https://github.com/Bree-codes/Data-Handling-With-NumPy-Pandas
+dvc-pandas,Python,0,2024-08-25T07:38:07,2024-12-02T13:25:19,11,https://github.com/kausaltech/dvc-pandas
+Telemarketing-campaign-sales-Forecasting,Jupyter Notebook,0,2024-08-26T16:37:29,2024-10-09T13:53:45,7,https://github.com/Jehjay/Telemarketing-campaign-sales-Forecasting
+some_pd_tools,Python,0,2024-08-19T16:37:36,2024-11-05T15:23:16,67,https://github.com/caballerofelipe/some_pd_tools
+getoutliers,Python,0,2024-10-05T06:01:01,2024-10-06T16:03:45,12,https://github.com/samueldrum/getoutliers
+PythonDatabaseVisualizer,Python,0,2024-10-30T08:24:22,2024-12-09T09:11:54,7,https://github.com/Salat-Tamas/PythonDatabaseVisualizer
+batb10,Jupyter Notebook,0,2024-09-26T18:05:59,2024-09-26T18:05:59,1,https://github.com/lelimat/batb10
+pandis,Python,0,2024-10-03T20:57:06,2024-10-03T20:57:06,1,https://github.com/hamsa-ai/pandis
+DSA-Practice,JavaScript,0,2024-11-01T08:32:28,2024-11-04T15:49:36,10,https://github.com/winter000boy/DSA-Practice
+Streamlit-CSV-excel-xlsx-Llama3-Ollama-PandasAI,Python,0,2024-11-13T07:05:43,2024-11-13T07:05:43,1,https://github.com/zenklinov/Streamlit-CSV-excel-xlsx-Llama3-Ollama-PandasAI
+cpa,Jupyter Notebook,0,2024-11-13T12:29:54,2024-11-13T12:38:54,5,https://github.com/rbitr/cpa
+Practice-Pandas,Python,0,2024-09-22T04:30:03,2024-09-24T05:24:26,4,https://github.com/Prakashdeveloper03/Practice-Pandas
+pandas-pouch,Rust,0,2024-09-02T14:17:00,2024-10-05T21:26:09,24,https://github.com/jiisanda/pandas-pouch
+shifter-pandas,Python,0,2024-09-01T15:30:02,2024-12-04T14:41:55,68,https://github.com/sbrunner/shifter-pandas
+Exploring-Pandas,Python,0,2024-11-30T10:14:35,2024-11-30T10:29:26,6,https://github.com/AnkitSinghGTHB/Exploring-Pandas
+HW_Pandas,Jupyter Notebook,0,2024-10-13T09:29:30,2024-10-13T14:48:26,4,https://github.com/Eltralo/HW_Pandas
+pandas_examples,HTML,0,2024-11-18T09:46:08,2024-11-25T16:17:20,11,https://github.com/uglyfish1991/pandas_examples
+Panda-Scratch,JavaScript,0,2024-10-20T11:18:09,2024-10-21T11:26:47,3,https://github.com/MeoMunDep/Panda-Scratch
+awesome-blog,JavaScript,0,2024-08-30T12:42:40,2024-12-11T12:25:00,86,https://github.com/mPandaer/awesome-blog
+drive-api-automation,Python,0,2024-12-12T16:19:39,2024-12-12T16:19:39,1,https://github.com/patosorio/drive-api-automation
+Pandas-MovieLens-Kaggle-DataScience-Project,Jupyter Notebook,0,2024-08-28T14:04:29,2024-08-29T04:26:42,5,https://github.com/tanishqbololu/Pandas-MovieLens-Kaggle-DataScience-Project
+Introudction-to-Pandas,Jupyter Notebook,0,2024-09-19T09:03:10,2024-09-19T09:03:10,1,https://github.com/ArasValizadeh/Introudction-to-Pandas
+ESG-Risk-and-Investment-Volatility-in-the-Hong-Kong-Market,Python,0,2024-11-12T06:41:05,2024-11-21T06:02:29,75,https://github.com/totowithtoto/ESG-Risk-and-Investment-Volatility-in-the-Hong-Kong-Market
+rHP-Pandas,Python,0,2024-08-21T14:43:37,2024-10-24T01:43:11,8,https://github.com/manaakiwhenua/rHP-Pandas
+Pandas-Python-Projects,Jupyter Notebook,0,2024-08-28T13:15:04,2024-08-28T14:09:04,12,https://github.com/tanishqbololu/Pandas-Python-Projects
+pandas-tips-collection,Jupyter Notebook,0,2024-10-27T06:44:38,2024-10-27T06:45:06,2,https://github.com/abay-qkt/pandas-tips-collection
+pandas-course-notebooks,Jupyter Notebook,1,2024-09-12T15:28:04,2024-11-19T14:15:12,156,https://github.com/tlcuzick/pandas-course-notebooks
+Pandas-Extra-Details,Java,0,2024-08-20T18:56:27,2024-08-20T18:56:27,1,https://github.com/PandaMods-Dev/Pandas-Extra-Details
+pandas-numpy-snippets,Python,0,2024-08-29T07:14:36,2024-08-29T07:14:36,1,https://github.com/Nsaifnijat/pandas-numpy-snippets
+projeto-pandas.python,Jupyter Notebook,0,2024-09-12T15:55:10,2024-09-12T23:55:52,2,https://github.com/bcesarr/projeto-pandas.python
+pandas_exp_data,,0,2024-10-17T06:40:49,2024-10-18T03:04:33,4,https://github.com/ruthranraghavan/pandas_exp_data
+125book,Jupyter Notebook,1,2024-10-01T19:39:55,2024-10-01T19:39:55,1,https://github.com/CS-DS-125/125book
+Zomato-EDA,Jupyter Notebook,0,2024-08-21T18:43:50,2024-08-21T19:08:02,5,https://github.com/Ayush41/Zomato-EDA
+Code-Champions_001,Python,3,2024-08-28T15:44:24,2024-11-17T09:35:05,83,https://github.com/Mayur313/Code-Champions_001
+python_pandas_conversor_medidas,Python,0,2024-09-29T21:38:05,2024-09-29T21:42:04,2,https://github.com/soyjosep/python_pandas_conversor_medidas
+Data-Analysis-with-Pandas-,Python,0,2024-11-20T13:09:38,2024-11-20T13:21:46,4,https://github.com/SajidKalam-byte/Data-Analysis-with-Pandas-
+Data-Analysis-With-Pandas,Python,0,2024-11-26T16:23:49,2024-11-26T16:24:43,2,https://github.com/JoydebRoy01/Data-Analysis-With-Pandas
+Pandas-for-Data-Science-,Python,0,2024-10-30T13:28:51,2024-11-04T06:06:41,14,https://github.com/Adithi-27/Pandas-for-Data-Science-
+Personal_Finance,Python,0,2024-09-25T06:02:28,2024-10-30T18:34:55,5,https://github.com/moe-the-techie/Personal_Finance
+Data_Analysis_and_Visualisation,Jupyter Notebook,0,2024-08-22T08:10:19,2024-10-27T23:29:02,3,https://github.com/simonjvardy/Data_Analysis_and_Visualisation
+Data-Analysis,,0,2024-11-07T23:00:57,2024-11-07T23:00:57,1,https://github.com/Affan-Farooq/Data-Analysis
+ml-data-loading,Jupyter Notebook,0,2024-11-17T13:09:25,2024-11-17T13:09:25,1,https://github.com/CrispenGari/ml-data-loading
+100daysofpython,Python,0,2024-10-30T14:46:39,2024-10-30T16:51:32,9,https://github.com/Rahullkumr/100daysofpython
+Chat_with_Csv-using-pandasai,Python,0,2024-08-23T07:09:44,2024-08-23T07:09:44,1,https://github.com/muhammad-ahsan12/Chat_with_Csv-using-pandasai
+deep-learning,Jupyter Notebook,0,2024-08-20T00:55:26,2024-11-29T20:32:37,29,https://github.com/JennEYoon/deep-learning
+tabled,Python,0,2024-09-19T15:18:42,2024-12-14T15:12:42,19,https://github.com/i2mint/tabled
+Pyspark-Better-Show,Python,0,2024-10-30T13:44:27,2024-10-30T13:51:12,4,https://github.com/JohnSesana/Pyspark-Better-Show
+fiscaldataapi,Python,0,2024-09-25T16:18:08,2024-10-04T21:27:34,33,https://github.com/Jaldekoa/fiscaldataapi
+Regular-Expressions,Jupyter Notebook,0,2024-11-04T20:41:34,2024-11-04T20:46:33,2,https://github.com/AliZandesh/Regular-Expressions
+Quantitative_UX,Jupyter Notebook,1,2024-09-17T13:09:59,2024-09-17T13:09:59,1,https://github.com/sofiadahl/Quantitative_UX
+Problem-Solving-SQL-Pandas-and-PySpark,Python,0,2024-10-12T12:09:02,2024-10-15T14:01:19,8,https://github.com/Aysr01/Problem-Solving-SQL-Pandas-and-PySpark
+Academy-Course-PYT26065,Python,0,2024-10-02T13:04:58,2024-10-02T13:04:58,1,https://github.com/Open-Risk-Academy/Academy-Course-PYT26065
+Academy-Course-PYT37067,Python,0,2024-10-02T14:45:01,2024-10-03T14:20:22,3,https://github.com/Open-Risk-Academy/Academy-Course-PYT37067
+NIST_Benchmark,C++,0,2024-09-08T19:09:14,2024-11-01T16:47:27,84,https://github.com/Wisc-HCI/NIST_Benchmark
+HawaiiClimateDataAPI,Jupyter Notebook,0,2024-11-09T00:50:39,2024-11-30T22:53:50,11,https://github.com/theodoremoreland/HawaiiClimateDataAPI
+Caste_based_hate_crime_Analysis,Python,3,2024-09-30T20:12:34,2024-10-10T06:21:46,20,https://github.com/agarwalmohit26/Caste_based_hate_crime_Analysis
+Commodities-Data-ETL-With-AWS-And-Python-Pandas,HTML,0,2024-10-14T09:17:27,2024-10-17T12:11:19,13,https://github.com/Ballal65/Commodities-Data-ETL-With-AWS-And-Python-Pandas
+Leetcode-Solutions,Python,0,2024-08-19T03:05:49,2024-12-14T04:57:49,866,https://github.com/ata-turhan/Leetcode-Solutions
+data-science-in-python-projects,Jupyter Notebook,0,2024-10-03T15:32:30,2024-10-16T13:34:30,16,https://github.com/Mawa700/data-science-in-python-projects
+getloc,Python,1,2024-11-28T04:05:20,2024-11-28T04:06:36,2,https://github.com/dof-studio/getloc
+cdm_reader_mapper,Python,5,2024-08-19T08:24:47,2024-12-12T07:18:27,721,https://github.com/glamod/cdm_reader_mapper
+machine-learning-course,Jupyter Notebook,4,2024-11-25T01:01:18,2024-11-25T01:01:18,1,https://github.com/martishin/machine-learning-course
+invoice-issuance-automation,Jupyter Notebook,0,2024-09-18T00:44:53,2024-09-18T00:47:39,3,https://github.com/gsoaresdz/invoice-issuance-automation
+PYHR,Python,0,2024-09-18T06:18:26,2024-11-24T15:40:21,2,https://github.com/valderpan/PYHR
+Seaborn-Basics,Jupyter Notebook,0,2024-08-28T13:37:54,2024-08-28T13:39:17,3,https://github.com/tanishqbololu/Seaborn-Basics
+certificate_generator,Python,0,2024-09-05T14:30:45,2024-09-06T20:34:37,6,https://github.com/veenanikhar/certificate_generator
+Seaborn-Python,Jupyter Notebook,0,2024-08-28T13:39:03,2024-08-29T10:08:42,4,https://github.com/mandeepkaur19/Seaborn-Python
+machine-learning,Jupyter Notebook,2,2024-10-28T00:24:20,2024-11-19T09:31:56,11,https://github.com/pranabdas/machine-learning
+BellyButtonBiodiversity,JavaScript,0,2024-08-20T19:17:49,2024-11-30T22:53:16,9,https://github.com/theodoremoreland/BellyButtonBiodiversity
+c-cpp-python,C++,0,2024-10-08T19:45:54,2024-10-13T19:28:08,10,https://github.com/DanielRomeo/c-cpp-python
+Fire-Analysis,Jupyter Notebook,0,2024-08-20T00:12:53,2024-09-07T06:34:08,177,https://github.com/LegallyNotBlonde/Fire-Analysis
+market-calendar-tool,Python,0,2024-10-13T22:34:56,2024-10-28T20:03:15,81,https://github.com/pavelkrusek/market-calendar-tool
+Data-Science-Tools,Jupyter Notebook,0,2024-08-19T03:52:06,2024-08-20T04:53:14,3,https://github.com/galmerom/Data-Science-Tools
+Video-Panda,,0,2024-12-12T05:59:02,2024-12-12T08:10:57,6,https://github.com/jh-yi/Video-Panda
+s3-upload,Scala,0,2024-08-19T15:56:46,2024-11-28T09:56:59,10,https://github.com/guardian/s3-upload
+datascience,Jupyter Notebook,1,2024-08-25T07:45:03,2024-12-15T09:50:22,14,https://github.com/alvertogit/datascience
+api-to-dataframe,Python,0,2024-08-25T00:57:03,2024-12-09T02:02:27,46,https://github.com/ivanildobarauna-dev/api-to-dataframe
+EZ-KeySystem,Lua,1,2024-11-11T16:33:10,2024-11-30T20:36:15,4,https://github.com/KrypDeveloper/EZ-KeySystem
+SkyConnect,Python,0,2024-10-06T18:01:00,2024-10-14T21:24:56,13,https://github.com/imdibr/SkyConnect
+flash,Python,1,2024-08-26T03:39:01,2024-12-13T05:41:36,52,https://github.com/flash-lib/flash
+movie-recommendation-system,Python,0,2024-08-25T07:43:50,2024-08-27T04:44:30,3,https://github.com/SpectureRam/movie-recommendation-system
+Portfolio-de-Projetos,,0,2024-10-07T12:04:52,2024-10-07T12:12:24,2,https://github.com/michaeljmcardoso/Portfolio-de-Projetos
+datacamp,,2,2024-08-30T22:15:46,2024-09-06T14:52:46,5,https://github.com/coatk1/datacamp
+Time-Series-Forecasting_055,Jupyter Notebook,0,2024-10-11T11:49:58,2024-10-30T20:26:50,7,https://github.com/Shreyansh055/Time-Series-Forecasting_055
+Web-ScrappER,Python,1,2024-10-05T14:31:16,2024-10-05T14:42:09,5,https://github.com/Bl4cKc34sEr/Web-ScrappER
+Data-Analysis-Tutorials-Python-Jupyter,Jupyter Notebook,0,2024-10-21T17:10:13,2024-12-09T19:35:31,25,https://github.com/ai-mg/Data-Analysis-Tutorials-Python-Jupyter
+pycupiddb,Python,0,2024-08-31T07:59:26,2024-10-31T15:19:37,6,https://github.com/cupiddb/pycupiddb
+Trading_Algorithm_055,Python,0,2024-10-09T21:44:05,2024-10-10T12:53:46,19,https://github.com/Shreyansh055/Trading_Algorithm_055
+lasfile,Python,0,2024-09-11T15:11:54,2024-09-11T15:58:44,4,https://github.com/bzlmnop/lasfile
+DATA-SCIENCE-PYTHON,Python,0,2024-10-07T06:17:57,2024-10-22T13:06:58,57,https://github.com/Anjaneyakumar18/DATA-SCIENCE-PYTHON
+Rython,R,0,2024-12-07T21:19:48,2024-12-09T15:52:51,14,https://github.com/wikki13/Rython
+Dashboard-Streamlit-ATUT,Python,2,2024-09-26T08:53:29,2024-09-26T08:53:29,1,https://github.com/abrahamkoloboe27/Dashboard-Streamlit-ATUT
+Chat-with-csv--Using-Semantic-Search-,Jupyter Notebook,0,2024-08-19T12:23:55,2024-09-11T00:04:43,62,https://github.com/ibkya/Chat-with-csv--Using-Semantic-Search-
+date-a-scientist,Jupyter Notebook,0,2024-10-15T07:49:55,2024-11-22T18:14:03,11,https://github.com/imprv-ai/date-a-scientist
+Data-Analysis-And-Machine-Learning-Projects,Jupyter Notebook,2,2024-10-20T18:27:58,2024-11-22T19:52:07,39,https://github.com/mohammadreza-mohammadi94/Data-Analysis-And-Machine-Learning-Projects
+loggerloader,Python,2,2024-10-24T18:07:25,2024-12-05T17:19:15,16,https://github.com/utah-geological-survey/loggerloader
+YouTube-Data-Harvesting-and-Warehousing,Jupyter Notebook,2,2024-09-10T03:56:19,2024-10-01T04:04:16,4,https://github.com/iambitttu/YouTube-Data-Harvesting-and-Warehousing
+Credit-Card-Fraud-Detection_055,Jupyter Notebook,0,2024-10-11T09:59:29,2024-10-19T13:47:08,4,https://github.com/Shreyansh055/Credit-Card-Fraud-Detection_055
+Tech-Stock-Visualization,Jupyter Notebook,0,2024-09-30T01:16:42,2024-10-24T04:55:41,4,https://github.com/Siddharthbartake/Tech-Stock-Visualization
+python,Python,0,2024-08-23T07:52:16,2024-08-24T12:37:58,2,https://github.com/imabhinavdev/python
+python-selenium-news,Python,0,2024-08-19T09:44:29,2024-12-15T12:40:10,138,https://github.com/dan-mba/python-selenium-news
+uspto_EDA,Jupyter Notebook,0,2024-09-02T14:16:04,2024-09-02T14:17:09,2,https://github.com/ruiruigaoh/uspto_EDA
+VCFSimulator-SamukLab,Python,1,2024-08-20T23:46:34,2024-12-01T20:56:38,2,https://github.com/Pie115/VCFSimulator-SamukLab
+Python-Data-Analysis-Project,Jupyter Notebook,0,2024-11-03T18:03:17,2024-11-11T16:54:52,27,https://github.com/shaun-mia/Python-Data-Analysis-Project
+Titanic-Survivability-Prediction,Jupyter Notebook,2,2024-09-30T13:46:02,2024-10-02T15:20:34,7,https://github.com/miguel-c05/Titanic-Survivability-Prediction
+Python-Libraries,Jupyter Notebook,0,2024-09-08T13:55:33,2024-09-08T13:55:33,1,https://github.com/ibrahim-patwary/Python-Libraries
+ML_slary_predection_model,Python,0,2024-10-10T18:48:19,2024-10-12T06:44:35,16,https://github.com/purendeeswar24/ML_slary_predection_model
+Forecasting-Apple-Stock-Prices-with-Deep-Learning-Model,Jupyter Notebook,0,2024-09-28T16:05:53,2024-09-28T16:06:57,2,https://github.com/divyanshu-verma2/Forecasting-Apple-Stock-Prices-with-Deep-Learning-Model
+House-Price-Prediction-Project,Python,0,2024-10-21T15:38:31,2024-10-21T16:08:20,5,https://github.com/peteleba/House-Price-Prediction-Project
+CSV-To-Excel-Converter,Python,0,2024-11-23T13:25:52,2024-11-23T13:45:23,10,https://github.com/soypremshandilya/CSV-To-Excel-Converter
+Crime-Against-Women-Data-Visualization-using-Python,Python,0,2024-09-13T19:52:56,2024-09-20T06:58:51,48,https://github.com/Dinesh-singh-saini/Crime-Against-Women-Data-Visualization-using-Python
+Telegram-Chat-Analyzer,Python,2,2024-11-08T20:25:08,2024-11-08T20:25:08,1,https://github.com/Sanjeev-Kumar78/Telegram-Chat-Analyzer
+FilmFlow_Movie_Recommender_System_Project,Jupyter Notebook,0,2024-08-27T19:00:18,2024-08-27T19:47:24,3,https://github.com/Ramkrishna8888/FilmFlow_Movie_Recommender_System_Project
+trackdechets-preparation-inspection,Python,0,2024-08-19T15:11:35,2024-12-01T09:04:39,107,https://github.com/MTES-MCT/trackdechets-preparation-inspection
+covid-19,Python,0,2024-08-25T01:41:25,2024-12-15T02:01:12,16,https://github.com/lapanquecita/covid-19
+Dynamic_Pricing_Strategy_055,Jupyter Notebook,0,2024-10-11T15:05:43,2024-11-07T18:26:55,11,https://github.com/Shreyansh055/Dynamic_Pricing_Strategy_055
+ChatWithCSVs,Python,0,2024-09-09T14:55:12,2024-09-09T15:56:05,12,https://github.com/bhargav0807/ChatWithCSVs
+Data-scraping-for-IBTM-world-directory,Python,0,2024-11-19T19:49:27,2024-11-20T19:07:32,3,https://github.com/hanyc91539/Data-scraping-for-IBTM-world-directory
+Data-Analysis-Web-Application,Python,0,2024-12-07T13:55:48,2024-12-07T13:55:48,1,https://github.com/NamanVSrivastav/Data-Analysis-Web-Application
+fortune500-scraper,Python,0,2024-10-14T10:29:51,2024-10-14T12:15:50,5,https://github.com/wannjala/fortune500-scraper
+Car_dekho_car_price_prediction,Python,0,2024-10-09T10:49:51,2024-11-27T16:38:28,7,https://github.com/pavankethavath/Car_dekho_car_price_prediction
+Introduction-to-functions-in-python,Python,0,2024-09-18T20:28:07,2024-10-16T16:33:20,32,https://github.com/Faiqa-batool/Introduction-to-functions-in-python
+CE282-LA,Jupyter Notebook,0,2024-09-14T09:17:23,2024-09-14T09:17:23,1,https://github.com/CE-Storage/CE282-LA
+Movie-Recommendation-Project,Jupyter Notebook,0,2024-08-19T19:26:04,2024-10-17T12:17:55,7,https://github.com/parth-jatav/Movie-Recommendation-Project
+GPS_analysis,Jupyter Notebook,2,2024-10-19T13:08:50,2024-10-21T07:42:18,7,https://github.com/stelios-c/GPS_analysis
+CAnyOSLib,C,0,2024-08-24T04:27:42,2024-08-24T04:27:42,1,https://github.com/OPandaGroup/CAnyOSLib
+Soccer_Match_Predictor,Jupyter Notebook,0,2024-09-22T18:57:14,2024-10-02T19:25:50,3,https://github.com/Abenez3r/Soccer_Match_Predictor
+Financial_Crisis_2007-08,Jupyter Notebook,1,2024-08-19T19:43:41,2024-09-02T22:05:29,7,https://github.com/JoseArnel/Financial_Crisis_2007-08
+Ekimetrics_Optimization_Project,Jupyter Notebook,0,2024-09-07T16:50:05,2024-09-07T16:50:05,1,https://github.com/Yacinechak/Ekimetrics_Optimization_Project
+python-library-door,Jupyter Notebook,1,2024-09-15T14:50:04,2024-09-21T22:19:07,24,https://github.com/wasif-h/python-library-door
+python_weather_scraper,Python,0,2024-12-11T11:34:57,2024-12-11T10:53:12,2,https://github.com/SzauterA/python_weather_scraper
+perse,Python,0,2024-11-07T12:17:37,2024-12-12T13:38:39,33,https://github.com/SermetPekin/perse
+machine-learning,Jupyter Notebook,0,2024-08-20T19:26:03,2024-08-20T19:40:39,2,https://github.com/MUGISHA-Pascal/machine-learning
+Tokyo_AirBnb_Analysis_Project,Jupyter Notebook,1,2024-08-21T15:23:15,2024-11-23T12:01:59,60,https://github.com/mrjxtr/Tokyo_AirBnb_Analysis_Project
+sakeoflearning,Jupyter Notebook,0,2024-12-11T13:05:23,2024-12-11T19:21:47,3,https://github.com/samlexrod/sakeoflearning
+InvMan,Python,1,2024-10-13T18:29:20,2024-10-13T22:29:44,3,https://github.com/dizzydroid/InvMan
+PyDataForgeHub,Python,0,2024-09-09T04:26:59,2024-09-10T07:29:34,14,https://github.com/Mirwais-Farahi/PyDataForgeHub
+red-irag,Python,0,2024-08-25T01:36:12,2024-12-15T01:54:59,16,https://github.com/lapanquecita/red-irag
+bundev,TypeScript,0,2024-08-20T05:53:14,2024-09-03T12:58:27,2,https://github.com/dangvanthanh/bundev
+Medicine-Recommendation-System,Jupyter Notebook,0,2024-12-05T11:06:16,2024-12-05T11:06:16,1,https://github.com/27ahmad/Medicine-Recommendation-System
+aguacate,Python,0,2024-08-27T00:01:52,2024-09-05T17:55:09,3,https://github.com/lapanquecita/aguacate
+Exploratory-Data-Analysis-on-Aspiring-Mind-Employment-Outcome-2015-,Jupyter Notebook,0,2024-10-09T18:43:27,2024-10-09T18:46:48,3,https://github.com/mejdihaddad/Exploratory-Data-Analysis-on-Aspiring-Mind-Employment-Outcome-2015-
+PlayStoreDataAnalysis-,Jupyter Notebook,0,2024-10-16T17:50:50,2024-10-16T17:54:35,2,https://github.com/11SShukla/PlayStoreDataAnalysis-
+data_portfolio,,0,2024-11-13T17:19:19,2024-11-27T21:47:41,11,https://github.com/victor-antoniassi/data_portfolio
+picklevw,Python,0,2024-09-03T13:00:35,2024-10-01T16:35:08,6,https://github.com/jonathanciapetti/picklevw
+Analytics-NSRDB-Meteorological-Data,Jupyter Notebook,1,2024-08-27T13:27:33,2024-09-12T10:31:56,10,https://github.com/shahriar-rahman/Analytics-NSRDB-Meteorological-Data
+essential-IT,VBA,1,2024-09-08T10:51:38,2024-09-08T10:56:43,2,https://github.com/eric15342335/essential-IT
+Python-Learning,Jupyter Notebook,0,2024-10-02T10:44:13,2024-10-22T13:37:33,37,https://github.com/fahadPathan7/Python-Learning
+lydianeghad.github.io,,0,2024-10-22T09:06:54,2024-12-13T12:36:12,21,https://github.com/Liily77/lydianeghad.github.io
+patch1,Python,1,2024-08-28T23:59:41,2024-08-29T00:03:11,3,https://github.com/thomashuss/patch1
+hydrodashboards,Python,1,2024-09-13T07:43:42,2024-11-26T08:44:44,3,https://github.com/d2hydro/hydrodashboards
+ML_Training,Jupyter Notebook,0,2024-11-14T04:43:51,2024-12-04T06:46:33,32,https://github.com/ayudixit/ML_Training
+HH_API_app,Python,1,2024-09-04T09:58:13,2024-09-06T09:54:46,11,https://github.com/g0r0kh/HH_API_app
+Clustering,Python,1,2024-08-28T19:31:20,2024-09-08T16:48:35,19,https://github.com/g0r0kh/Clustering
+dw-de-commodities,Python,0,2024-10-10T19:58:42,2024-11-09T13:03:32,17,https://github.com/ianlucasch/dw-de-commodities
+be08-fin-3Dasoo-SalesBoost-BE,Java,2,2024-09-19T08:58:04,2024-11-08T06:02:42,530,https://github.com/beyond-sw-camp/be08-fin-3Dasoo-SalesBoost-BE
+InvestMe,HTML,0,2024-10-06T06:56:07,2024-12-09T21:50:11,5,https://github.com/grzjan5219/InvestMe
+Housing_Rental_Analysis_for_San_Francisco,Jupyter Notebook,2,2024-10-03T18:35:00,2024-10-03T18:35:00,1,https://github.com/paocarvajal1912/Housing_Rental_Analysis_for_San_Francisco
+Quality-Inspection,Jupyter Notebook,0,2024-08-31T09:56:37,2024-08-31T11:35:11,5,https://github.com/Vruddhi18/Quality-Inspection
+script-vault.project,Python,1,2024-09-23T20:03:17,2024-12-14T01:06:48,81,https://github.com/AND3SIL4/script-vault.project
+FitnessDatabase,Python,1,2024-09-16T18:11:39,2024-10-03T12:24:36,4,https://github.com/PanosChatzi/FitnessDatabase
+Breast-Cancer-Prediction-using-different-ML-models,Jupyter Notebook,0,2024-10-10T06:30:33,2024-12-13T16:35:05,47,https://github.com/udityamerit/Breast-Cancer-Prediction-using-different-ML-models
+ecallisto_ng,Jupyter Notebook,1,2024-09-04T13:19:04,2024-12-13T14:49:22,14,https://github.com/i4Ds/ecallisto_ng
+Simple-Linear-Regression-Project,Jupyter Notebook,0,2024-10-10T14:32:43,2024-10-11T13:02:25,10,https://github.com/AhmedNasef3/Simple-Linear-Regression-Project
+RNAlytics,TypeScript,1,2024-11-17T18:00:54,2024-11-20T06:22:33,120,https://github.com/aryehky/RNAlytics
+DataLens,Python,0,2024-11-25T07:15:56,2024-11-26T06:29:17,24,https://github.com/coding-chemist/DataLens
+Wabtec-Team-VITBhopal,Python,0,2024-11-12T17:18:51,2024-11-26T09:15:52,15,https://github.com/HarshSahu23/Wabtec-Team-VITBhopal
+MyNotes,Java,3,2024-09-13T16:04:03,2024-12-05T15:48:47,2,https://github.com/ganeshbabuNN/MyNotes
+Titanic-Full-EDA,Jupyter Notebook,0,2024-10-09T16:35:28,2024-10-09T19:17:07,4,https://github.com/AhmedNasef3/Titanic-Full-EDA
+Store-Sales-Full-EDA,Jupyter Notebook,0,2024-10-09T16:34:05,2024-10-09T19:09:00,5,https://github.com/AhmedNasef3/Store-Sales-Full-EDA
+tensorflow-twitter-sentiment-analysis,Jupyter Notebook,0,2024-11-27T14:20:54,2024-11-27T14:20:54,1,https://github.com/jparedesDS/tensorflow-twitter-sentiment-analysis
+LLM-DATA-RETRIEVL-ANALYSINGCHATBOT,Python,0,2024-08-30T16:13:48,2024-08-30T17:05:43,11,https://github.com/nancykaim/LLM-DATA-RETRIEVL-ANALYSINGCHATBOT
+Stroke_Exploratory_Data_Analysis,Jupyter Notebook,0,2024-09-22T19:49:17,2024-10-04T16:40:28,6,https://github.com/Danial-Ghofrani/Stroke_Exploratory_Data_Analysis
+TamerOnLine,,1,2024-09-26T11:27:16,2024-10-07T12:59:05,58,https://github.com/TamerOnLine/TamerOnLine
+ml-regression-project-california-housing,Jupyter Notebook,0,2024-09-02T15:29:22,2024-10-19T21:15:44,3,https://github.com/JoseJuan98/ml-regression-project-california-housing
+07_GroupProject1,Jupyter Notebook,0,2024-10-09T20:46:29,2024-10-09T20:46:29,1,https://github.com/tiascott01/07_GroupProject1
+AequitasIQ-,TypeScript,0,2024-10-04T19:10:42,2024-11-01T16:14:51,45,https://github.com/Quinta0/AequitasIQ-
+ComputationalDrugDiscovery,Jupyter Notebook,0,2024-08-23T14:55:49,2024-09-16T00:24:04,16,https://github.com/asmtanjimhassan/ComputationalDrugDiscovery
+AiML_ACIS-insurance-solutions,Jupyter Notebook,0,2024-08-21T21:04:45,2024-08-21T21:04:45,1,https://github.com/Daniel-Andarge/AiML_ACIS-insurance-solutions
+Hackeando_a_Bolsa_de_Valores,HTML,0,2024-08-30T19:19:51,2024-10-19T15:08:17,15,https://github.com/LucasRialx/Hackeando_a_Bolsa_de_Valores
+Collection-of-Data-Science-Projects,Jupyter Notebook,1,2024-08-23T13:04:24,2024-11-12T09:37:52,298,https://github.com/datalex42/Collection-of-Data-Science-Projects
+bitcoin-price-predictor,Python,0,2024-09-12T04:35:13,2024-11-14T04:19:24,13,https://github.com/engageintellect/bitcoin-price-predictor
+2-Stage-OpAmp-Analysis,Python,1,2024-11-21T10:55:01,2024-11-22T17:47:52,10,https://github.com/MaskedSyntax/2-Stage-OpAmp-Analysis
+Penguin_Project,Python,0,2024-11-30T11:51:43,2024-11-30T11:51:43,1,https://github.com/mejdihaddad/Penguin_Project
